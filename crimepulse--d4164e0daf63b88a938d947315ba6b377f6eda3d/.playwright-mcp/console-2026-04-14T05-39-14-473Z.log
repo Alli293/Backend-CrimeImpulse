@@ -1,0 +1,121 @@
+[     145ms] [LOG] Ejecutando output-type marfeel-piano push1... @ https://www.nacion.com/sucesos/crimenes/:34
+[     154ms] [LOG] Cargando Piano... @ https://www.nacion.com/sucesos/crimenes/:101
+[     154ms] [LOG] refreshScript: @ https://www.nacion.com/sucesos/crimenes/:132
+[     154ms] [LOG] current url: https://www.nacion.com/sucesos/crimenes/ @ https://www.nacion.com/sucesos/crimenes/:133
+[     154ms] [LOG] currentURLHasKeywords: true @ https://www.nacion.com/sucesos/crimenes/:134
+[     155ms] [LOG] Match found, setting timeout: 420000 @ https://www.nacion.com/sucesos/crimenes/:153
+[     281ms] [LOG] %c Alto! font-weight: bold; font-size: 28px;color:red;text-shadow:1px 1px 0px black, 1px -1px 0 black, -1px 1px 0 black, -1px -1px 0 black; @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     281ms] [LOG] %c Esta es una característica del navegador destinada a los desarrolladores. Si alguien le dijo que copie y pegue algo aquí para habilitar una función del sitio o piratear la cuenta de alguien, se trata de una estafa y le dará acceso a su cuenta. color: blue; font-size: 12px; @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     384ms] [ERROR] No auth token provided for resizer @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     400ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     403ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     403ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     403ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     403ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     404ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     404ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     404ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     404ms] [LOG] [GPT] initializeGPT ejecutado @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[     515ms] [LOG] _validateSessionToken(): Entrando en else de renovación de perfil @ https://www.nacion.com/pf/dist/components/combinations/default.js?d=723&mxId=00000000:1
+[    1029ms] [LOG] Ejecutando output-type marfeel-piano push2... @ https://www.nacion.com/sucesos/crimenes/:38
+[    1029ms] [LOG] {rfv: 1, r: 0, f: 0, v: 0} @ https://www.nacion.com/sucesos/crimenes/:39
+[    1029ms] [LOG] Ejecutando output-type marfeel-piano push3... @ https://www.nacion.com/sucesos/crimenes/:56
+[    1465ms] [LOG] in Iframe true @ :7
+[    1563ms] [INFO] Powered by AMP ⚡ HTML shadows – Version 2603032146000 @ https://cdn.ampproject.org/shadow-v0.js:1
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1669ms] [WARNING] [Meta Pixel] - Multiple pixels with conflicting versions were detected on this page. @ https://connect.facebook.net/en_US/fbevents.js:181
+[    1693ms] Uncaught Error: No ampdoc found for [object HTMLElement]
+    at l (https://cdn.ampproject.org/shadow-v0.js:1:2232)
+    at i.createError (https://cdn.ampproject.org/shadow-v0.js:1:15743)
+    at i.getAmpDoc (https://cdn.ampproject.org/shadow-v0.js:1:36837)
+    at o.connectedCallback (https://cdn.ampproject.org/shadow-v0.js:1:91982)
+    at ho (https://cdn.ampproject.org/shadow-v0.js:1:103135)
+    at oo (https://cdn.ampproject.org/shadow-v0.js:1:103022)
+    at i.installExtensionForDoc (https://cdn.ampproject.org/shadow-v0.js:1:250426)
+    at i.ol (https://cdn.ampproject.org/shadow-v0.js:1:264570)
+    at <anonymous> (https://cdn.ampproject.org/shadow-v0.js:1:262087)
+    at i.il (https://cdn.ampproject.org/shadow-v0.js:1:261749)
+    at i.attachShadowDoc (https://cdn.ampproject.org/shadow-v0.js:1:262056)
+    at <anonymous> (https://experiences.mrf.io/statics/inline-experiences/esnext/standalone.js:0:62422)
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2099ms] [WARNING] [AmpAnalytics <unknown id>] No triggers were found in the config. No analytics data will be sent. @ https://cdn.ampproject.org/shadow-v0.js:1
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2197ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://www.nacion.com/sucesos/crimenes/[https:/fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Montserrat:wght@700&display=swap](https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&family=Montserrat:wght@700&display=swap):0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2512ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2512ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2647ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2512ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2647ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2754ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1584ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1778ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    1821ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2059ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2215ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2257ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2407ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2512ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2647ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2754ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    3010ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    9197ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   14737ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   16466ms] ReferenceError: Cerrar_Ad_Itt_Img_425652744 is not defined
+    at <anonymous>:1:1
+[   20849ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   35850ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   50851ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   66225ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   80855ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[   95857ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[  110857ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[  125857ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[  140859ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[  155860ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0
+[  170862ms] [WARNING] The resource https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&family=Roboto:wght@300;400;700;900&display=swap was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://www.nacion.com/sucesos/crimenes/:0

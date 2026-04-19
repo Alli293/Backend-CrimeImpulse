@@ -1,0 +1,53 @@
+# Development Docker Compose Override
+# Usage: docker-compose -f docker-compose.yaml -f docker-compose.dev.yml up
+
+services:
+  crimepulse-backend:
+    build:
+      context: ./backend
+      target: development
+      dockerfile: Dockerfile
+    volumes:
+      # Mount source code for hot reload
+      - ./backend/app:/app/app
+      - ./backend/alembic:/app/alembic
+      # Mount .env file for development
+      - ./backend/.env:/app/.env
+      # Preserve virtual environment
+      - backend_venv:/app/.venv
+    environment:
+      # Development overrides
+      ENVIRONMENT: development
+      LOG_LEVEL: debug
+      # Enable debug mode
+      DEBUG: "true"
+      # Langfuse host for development (use localhost since you might access it from host)
+      LANGFUSE_HOST: "http://localhost:3000"
+    # Expose debug port
+    ports:
+      - "8000:8000"
+      - "5678:5678"  # Python debugger port
+    command: ["uv", "run", "fastapi", "dev", "app/main.py", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+
+  crimepulse-celery-worker:
+    build:
+      context: ./backend
+      target: development
+      dockerfile: Dockerfile
+    volumes:
+      # Mount source code for hot reload
+      - ./backend/app:/app/app
+      - ./backend/.env:/app/.env
+      - backend_venv:/app/.venv
+    environment:
+      # Development overrides
+      ENVIRONMENT: development
+      LOG_LEVEL: debug
+      DEBUG: "true"
+      LANGFUSE_HOST: "http://localhost:3000"
+    # Celery worker with auto-reload for development
+    command: ["watchfiles", "--filter", "python", "celery -A app.infrastructure.celery_app:celery_app worker --loglevel=info --concurrency=1", "app"]
+
+volumes:
+  backend_venv:
+    name: crimepulse_backend_venv

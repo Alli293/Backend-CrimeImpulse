@@ -1,0 +1,685 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation "Menú de secciones" [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e8]:
+            - button [ref=e11] [cursor=pointer]:
+              - img [ref=e13]
+            - button "Secciones" [ref=e16] [cursor=pointer]:
+              - text: Secciones
+              - img [ref=e18]
+          - link "La Nacion logo" [ref=e21] [cursor=pointer]:
+            - /url: /
+            - img "La Nacion logo" [ref=e22]
+          - navigation "Mejores enlaces" [ref=e23]:
+            - link "Últimas noticias" [ref=e25] [cursor=pointer]:
+              - /url: /ultimas-noticias/
+            - link "Suscriptores" [ref=e27] [cursor=pointer]:
+              - /url: /mis-beneficios/
+            - link "El País" [ref=e29] [cursor=pointer]:
+              - /url: /el-pais/
+            - link "Política" [ref=e31] [cursor=pointer]:
+              - /url: /politica/
+            - link "Puro Deporte" [ref=e33] [cursor=pointer]:
+              - /url: /puro-deporte/
+            - link "Economía" [ref=e35] [cursor=pointer]:
+              - /url: /economia/
+            - link "Sucesos" [ref=e37] [cursor=pointer]:
+              - /url: /sucesos/
+            - link "El Explicador" [ref=e39] [cursor=pointer]:
+              - /url: /el-explicador/
+            - link "Opinión" [ref=e41] [cursor=pointer]:
+              - /url: /opinion/
+            - link "Viva" [ref=e43] [cursor=pointer]:
+              - /url: /viva/
+            - link "El Mundo" [ref=e45] [cursor=pointer]:
+              - /url: /el-mundo/
+          - button "Ingresar" [ref=e50]:
+            - img [ref=e51]
+            - generic [ref=e53]: Ingresar
+        - list [ref=e56]:
+          - listitem [ref=e57]:
+            - link "Últimas noticias" [ref=e58] [cursor=pointer]:
+              - /url: /ultimas-noticias/
+          - listitem [ref=e59]:
+            - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e60] [cursor=pointer]:
+              - /url: https://www.nacion.com/suscripcion-digital/
+              - text: Planes de suscripción
+              - generic [ref=e61]: (Se abre en una nueva ventana)
+          - listitem [ref=e62]:
+            - link "Boletines (Se abre en una nueva ventana)" [ref=e63] [cursor=pointer]:
+              - /url: https://www.nacion.com/boletines/
+              - text: Boletines
+              - generic [ref=e64]: (Se abre en una nueva ventana)
+          - listitem [ref=e65]:
+            - link "Suscriptores (Se abre en una nueva ventana)" [ref=e66] [cursor=pointer]:
+              - /url: https://www.nacion.com/mis-beneficios/
+              - text: Suscriptores
+              - generic [ref=e67]: (Se abre en una nueva ventana)
+          - listitem [ref=e68]:
+            - link "El País" [ref=e69] [cursor=pointer]:
+              - /url: /el-pais/
+          - listitem [ref=e70]:
+            - link "Política" [ref=e71] [cursor=pointer]:
+              - /url: /politica/
+          - listitem [ref=e72]:
+            - generic [ref=e73] [cursor=pointer]:
+              - link "Puro Deporte" [ref=e74]:
+                - /url: /puro-deporte/
+              - button "Mostrar Puro Deporte subsecciones" [ref=e75]:
+                - img [ref=e76]
+          - listitem [ref=e78]:
+            - link "El Explicador" [ref=e79] [cursor=pointer]:
+              - /url: /el-explicador/
+          - listitem [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - link "Viva" [ref=e82]:
+                - /url: /viva/
+              - button "Mostrar Viva subsecciones" [ref=e83]:
+                - img [ref=e84]
+          - listitem [ref=e86]:
+            - link "En confianza" [ref=e87] [cursor=pointer]:
+              - /url: /viva/en-confianza-videopodcast/
+          - listitem [ref=e88]:
+            - generic [ref=e89] [cursor=pointer]:
+              - link "Sucesos" [ref=e90]:
+                - /url: /sucesos/
+              - button "Mostrar Sucesos subsecciones" [expanded] [ref=e91]:
+                - img [ref=e92]
+            - list [ref=e95]:
+              - listitem [ref=e96]:
+                - link "Accidentes" [ref=e97] [cursor=pointer]:
+                  - /url: /sucesos/accidentes/
+              - listitem [ref=e98]:
+                - link "Crímenes" [ref=e99] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/
+              - listitem [ref=e100]:
+                - link "Narcotráfico" [ref=e101] [cursor=pointer]:
+                  - /url: /sucesos/narcotrafico/
+          - listitem [ref=e102]:
+            - link "Economía" [ref=e103] [cursor=pointer]:
+              - /url: /economia/
+          - listitem [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - link "Opinión" [ref=e106]:
+                - /url: /opinion/
+              - button "Mostrar Opinión subsecciones" [ref=e107]:
+                - img [ref=e108]
+          - listitem [ref=e110]:
+            - link "Por tanto" [ref=e111] [cursor=pointer]:
+              - /url: /blogs/por-tanto/
+          - listitem [ref=e112]:
+            - link "El Mundo" [ref=e113] [cursor=pointer]:
+              - /url: /el-mundo/
+          - listitem [ref=e114]:
+            - link "Mi Bienestar" [ref=e115] [cursor=pointer]:
+              - /url: /mi-bienestar/
+          - listitem [ref=e116]:
+            - link "Revista Dominical" [ref=e117] [cursor=pointer]:
+              - /url: /revista-dominical/
+          - listitem [ref=e118]:
+            - link "Spotlight" [ref=e119] [cursor=pointer]:
+              - /url: /spotlight/
+          - listitem [ref=e120]:
+            - link "Life Hacks" [ref=e121] [cursor=pointer]:
+              - /url: /life-hacks/
+          - listitem [ref=e122]:
+            - link "#NoComaCuento" [ref=e123] [cursor=pointer]:
+              - /url: /no-coma-cuento/
+          - listitem [ref=e124]:
+            - link "Áncora" [ref=e125] [cursor=pointer]:
+              - /url: /ancora/
+          - listitem [ref=e126]:
+            - link "Tecnología" [ref=e127] [cursor=pointer]:
+              - /url: /tecnologia/
+          - listitem [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]:
+              - link "Ciencia" [ref=e130]:
+                - /url: /ciencia/
+              - button "Mostrar Ciencia subsecciones" [ref=e131]:
+                - img [ref=e132]
+          - listitem [ref=e134]:
+            - link "Podcasts" [ref=e135] [cursor=pointer]:
+              - /url: /podcast/
+          - listitem [ref=e136]:
+            - generic [ref=e137] [cursor=pointer]:
+              - link "Videos" [ref=e138]:
+                - /url: /videos/
+              - button "Mostrar Videos subsecciones" [ref=e139]:
+                - img [ref=e140]
+          - listitem [ref=e142]:
+            - generic [ref=e143] [cursor=pointer]:
+              - link "Brandvoice" [ref=e144]:
+                - /url: /brandvoice/
+              - button "Mostrar Brandvoice subsecciones" [ref=e145]:
+                - img [ref=e146]
+          - listitem [ref=e148]:
+            - generic [ref=e149] [cursor=pointer]:
+              - link "TodoBusco" [ref=e150]:
+                - /url: /todobusco/
+              - button "Mostrar TodoBusco subsecciones" [ref=e151]:
+                - img [ref=e152]
+          - listitem [ref=e154]:
+            - link "Edición Impresa (Se abre en una nueva ventana)" [ref=e155] [cursor=pointer]:
+              - /url: https://lanacioncostarica.pressreader.com/
+              - text: Edición Impresa
+              - generic [ref=e156]: (Se abre en una nueva ventana)
+          - listitem [ref=e157]:
+            - link "Pasatiempos (Se abre en una nueva ventana)" [ref=e158] [cursor=pointer]:
+              - /url: https://www.nacion.com/pasatiempos/
+              - text: Pasatiempos
+              - generic [ref=e159]: (Se abre en una nueva ventana)
+          - listitem [ref=e160]:
+            - generic [ref=e161] [cursor=pointer]:
+              - link "Revista Perfil" [ref=e162]:
+                - /url: /revista-perfil/
+              - button "Mostrar Revista Perfil subsecciones" [ref=e163]:
+                - img [ref=e164]
+          - listitem [ref=e166]:
+            - link "Sabores" [ref=e167] [cursor=pointer]:
+              - /url: /sabores/
+          - listitem [ref=e168]:
+            - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e169] [cursor=pointer]:
+              - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+              - text: Planes de suscripción
+              - generic [ref=e170]: (Se abre en una nueva ventana)
+          - listitem [ref=e171]:
+            - link "Blogs" [ref=e172] [cursor=pointer]:
+              - /url: /blogs/
+          - listitem [ref=e173]
+    - main [ref=e174]:
+      - generic [ref=e175]:
+        - generic [ref=e534]:
+          - text: Publicidad
+          - iframe [ref=e535]:
+            - insertion [ref=f171e3]:
+              - iframe [ref=f171e5]:
+                - iframe [ref=f176e3]:
+                  - generic [ref=f182e2] [cursor=pointer]:
+                    - link [ref=f182e4]:
+                      - /url: https://privacy.us.criteo.com/adchoices?cppv=3&cpp=bbigezYtNG3kMQ3aFieSSsC87U0XCQr-Rgu2hTijj3_rFjRbNjT3NnfJYPC_0XcK4ScXBD2Qr_Lnp2KY1WMDyfuCnUtzE8vyhGlSUWDrsS-6mJbsjf3tP8fIYBM6pw82q9zuR1HOAz5z1t32mf0rXeLBNAI
+                      - img [ref=f182e5]
+                    - img [ref=f182e7]
+                    - generic [ref=f182e12]:
+                      - generic [ref=f182e18]:
+                        - link "San Jo… $197" [ref=f182e26]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=RoZ4zX6qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6ccGJ6mkp0p-hAQTyt9EcZq6Kvyuu_ug0_0YFdaIwQiseZDjXlq0UmrDAsRPndHNl1BLiQVSTNYtgMjS4OF5nBZLFbY8SVkKdzvjDeB_jNw_3SAPz_Q8dR5PZ3W4LUIxfX7eMLj0x6VvMOnfbh5113jSl-qJ5EJ8pVEUP-Yg1_nrmLvssh_0oNIbsNbyGW1wQTMd3riWPM-Stg4Jx1jjmWb37ubXsnAz8m0d1rUoNutOhn3YUsytoz0UD9E6JEWDLP8Uv3CujIMlHQMLwlfXiGkbYPU4-98WN5pQja4xqnl6CYhxM_CS3nnwr36b59hBxcl3e6vgW3BUW7Am1Jnvii_t6cDxOGLvAnDWTFmKR9BuOPYY3j_u4OzAXUNWgbTSvlbCZhob0JDOMOzaLrXp5_dehI8nngJ12Qy30hzgiA-jjWfNT7-XAAt6IFOkTgBB7&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-nueva-york-newark%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3Dz2Og5iraAQB_v29Dw7fPrw
+                          - generic [ref=f182e28]:
+                            - generic [ref=f182e32]: San Jo…
+                            - generic [ref=f182e40]: $197
+                        - link "San Jo… $151" [ref=f182e48]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=AjX7036qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6_amqCac6kd6x-r5EoNUPD--V6E8Va2tO0KPa-DXChT3Eoj5KMJoorMyA9lFJ26g4x4PCK7jQmrFzM_PhgB3dh5HoyiThMT0qgVpJ8CG6aAqCYB7yrYVYqQlD2r_GgwvXoZHBpoxWDsVYb5atsNvg2NPEC4gCwIoJQ7ompNR3rUDYVVexBf6LZy04_GWfUBbCDbjZs7zYIsXaYcRj3yBy5JBVqhA1ZSCX1PlLPWHMsYLvuOOm-bcZWBq9BTSFsqjJgT6bc2Ql4WaDEUUpsv014FgQcainD4EGHCgh-denQZDSC8CbPM7rNjYeO-uZTjR6Q_y14F7apvyMHEo6FktveMzirHibUi6-rIRZFWxw-rVBl2V9kcfeYy6yMRZV3zeBDO0daKb-iljvS2Ew4n7y89xf5A2xPMCytbPkHSRHgfCuhilb6mx6ryVzvdbonAZr&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-curazao%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DjrPVtSraAQAZ-jUrkrwePg
+                          - generic [ref=f182e50]:
+                            - generic [ref=f182e54]: San Jo…
+                            - generic [ref=f182e62]: $151
+                        - link "San Jos… $163" [ref=f182e70]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=j_rzk36qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6CCMmzMIAYWQux5cJ78wj9GeicR59wXd7qIQzGKm6JY1VzJs1J6ymO4u9BdcNz1U8eRqN9WkvGBB_XNGrsD4mHcozIV7S-8IdnU8t-Ln4iGd3lt02uyDqzw1KnVMjzfl91l-tWxhCFblM3KhxzfCF2wwJ-3wkJY5Ml8XZDi_ot8sNBKVp3wHY0Ae88LBfzI_MDBwVek3f2anauprYZPLwqLgy8WS4_z8PSmlSg5eg7GIRNBKEz8Ynni8IGjsmUragSsuUJ6luRedgK2Jm74ZCNXoUKWB45U17VlDKf1wamcC2LSRPCOqFg_JWzBGOJ5PNiwH24-eAHi9q_VeQbpvu4Kd4VqBaGqQKJABSKTte71JAefnke1bI8QDJ0m6DtZfbx2IhP9d7U5DCUkzrORVLyPlEfxlPGEmgjDCrMpVSpA_YOF0HRSs119_Nu_2EkbGA&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-san-martin%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3Di81kdyraAQAAfb3BokgHnA
+                          - generic [ref=f182e72]:
+                            - generic [ref=f182e76]: San Jos…
+                            - generic [ref=f182e84]: $163
+                        - link "San Jo… $192" [ref=f182e92]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=W--kw36qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6SJQr0McXZpU51oLDwX8CUg1vdBzHc2uwwN9biY82K1jxHFgkfODdblwdKIgKN24ldsX6FPXJVrkslRvyHVtKi-bOlpkEeP7vMwaRVfUwdDo7ihR8HmCFDzur1vq9Oo17HCtMamxUZ0rQZA_hu0GVMSMys1nqiYwW6KcgOa-61lgvlMZpWn_7AqfbqPB-ExHTD9P0KoS5FnSxRS7hwnpCBjf2CqPz9n3rLLWPwp8MDuEKvAy_dLXxab9pG8HdkzkdhtJfV3x-dnbldeXB3A9VJvrmeYpIVJ0_kgu9wO5fZkdhzR7GoohcCMn1m4bHHkPFzbDzTZ798Km4dfHkD_J_toab2rpiDZ0dRX_bfFRrnnO3WyXJVUrNJBn2beggg_vUM8dFOi_yVY1p8Ng0N5JMbLYAFmPSgf2LC9TKkV4t1zNeWmgebpXlZ0mFA49wBvp2&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-miami%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DT5Xx_yraAQBkg0eIZ05wUQ
+                          - generic [ref=f182e94]:
+                            - generic [ref=f182e98]: San Jo…
+                            - generic [ref=f182e106]: $192
+                        - link "San Jo… $176" [ref=f182e114]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=pFUiB36qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6xC-YvqN352Q1lYTvBqm3rMXMmnAR84YevuOa-sO3YA9YbBSxd3Isly9DSIUsK6pgLRioB-jveZ_9jLu6bpzX6YW9rDwldipEiaMRtH2cV1rCUqunc2k6jzzyPuW6aBnbQ5cy5V-j5LyqhTRtNdiJZ8SkZFNWU0mJnKXTEeWB_LEx4rwiX2NjDVEBhJn1VlmQrg7c2pnDIkOpHXEZQh6FxUr66LlGTEsy5cZ0vkv4askCeq4wp5hgidjjG-5YE9lS-RTHBSHeJSTU1RXsuyXORCJnlo5K43ek9q7xdajCvKHCiH9d01OyA7F0K6rIa_iW7pp7Cs3uws968OTD7DsJguxCkIOctD8nJUlPMaDfhAcIXDafVmQ1wyNzXV41PoDLWAxja5EVftSo_5lY1UWl3L2dxvFIF2axRZ0PspceHicoD6wHcmfvRrhTMqQpGEbO&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-medellin%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3D1i8_TSraAQC2C6b_Zm27iQ
+                          - generic [ref=f182e116]:
+                            - generic [ref=f182e120]: San Jo…
+                            - generic [ref=f182e128]: $176
+                        - link "San Jo… $171" [ref=f182e136]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=-YVvS36qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6r_M_bbz3Hc3U1zs_AG2Fuyieh07vhKetVHuTraFqZfrjN4_pqUQynJCU6EsjIaNpoZGP9pXMUH0M-fYCVbdDglLpAsNuQ2suEvyJO5YXgAPqmVlKO7hfMGZwBXheRKE34saJ0Ajw-Wf77fH9XHXA6U0YnUdYG6XyS-yp5FDIVknQYx-sYvpWqDcxt1MbGheiyN-s0AjXdkDkn7Goyo_ZmfGHLk7nk06RXVoWLsXTPNpqCZnbSy-qt1nD3pEijCHIxpJP_NTkHllcXZwo0oOJ5aKXgT1QVsAmGqJIxtbp80KNfZJ4MP0KR1wjUupRQVMHGy0hcp580r7uE-59L36NSDLplUS-nR3qPqoygqH82w5ogvzLR5un19aEqP650uT407ITFQjHnr3px23og-lW12Fp3u80He8lsXSbnXlnrRM4PxLwz58s_Yv6RHbbcj6J&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-santo-domingo%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3Dy-kl5CraAQBipeH_ZMHizA
+                          - generic [ref=f182e138]:
+                            - generic [ref=f182e142]: San Jo…
+                            - generic [ref=f182e150]: $171
+                      - link [ref=f182e151]:
+                        - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=sZbMSX6qMTHy1gkDyzUgMUv-NF8G23G4-a9QRmolFEEYzm18WEF8DTO3s4FZoy-ekziqal6vs3JA-44jpxmxomjuSwwfSJBFY0n3s-3c_kRJaW1r_7B-9tLcT0Zve9QDSkynCWS1gr85gMdq_jjkyVyPGxawJdhtVaNKh_oLpGlwmWt6PYDe08VUORvkk1xeKpAmnYZdDc6klkgvrjtWsSiY4I9MgaFPVlWfl3y0HQR9uBHrlKE4tiMG1aQ2GPYG5rXZ57grfdNFGwk3CLyMpWaKebKWpzGnNlTb3-pD8ldy6qgRYD-nGu2IlYYp2HQTuQTo9oZl2Vb56ybM3EaRAU6pamobuNRMstrwiMXPeiOXmUhePbE9WfGDcKIDWzEuquFv9UQ6HUgg_l2eyVIWiZsjFIzukHY4d2J2OQC9vLts-XDsXo6FsFyn7C-LkG_JYLmajGcqpIbvUd_ksI0oeqDrk2GDiCoyV-gQysmVPmHnCthXByeg0h7R1r6bxU3KbjVJrvGGQeE2nb6dcbr7RNxogWsj5j79ziqk_7fdIfAoleSpneZsmd_LE2FiQUZ8-VxMLAyvIxEW2JKSUwufJQid3_U&maxdest=https%3A%2F%2Fwww.arajet.com%2F%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DNBK0BiraAQB8aQQjjpClrg
+        - heading "Crímenes" [level=1] [ref=e184]
+      - generic [ref=e185]:
+        - generic [ref=e188]:
+          - generic [ref=e190]:
+            - article [ref=e191]:
+              - generic [ref=e192]:
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                  - img [ref=e196]
+                - generic [ref=e199]:
+                  - 'heading "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [level=3] [ref=e201]':
+                    - 'link "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [ref=e202] [cursor=pointer]':
+                      - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                  - paragraph [ref=e203]: Policía Judicial reportó siete homicidios este fin de semana.
+                  - generic [ref=e204]:
+                    - generic [ref=e205]:
+                      - text: Por
+                      - link "Christian Montero" [ref=e207] [cursor=pointer]:
+                        - /url: /autores/christian-montero/
+                      - text: ●
+                    - time [ref=e208]: 13 de abril 2026, 05:05 p. m.
+            - separator [ref=e209]
+            - article [ref=e210]:
+              - generic [ref=e211]:
+                - link [ref=e214] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                  - img [ref=e215]
+                - generic [ref=e218]:
+                  - heading "Hombre de 34 años es asesinado a balazos en centro de San José" [level=3] [ref=e220]:
+                    - link "Hombre de 34 años es asesinado a balazos en centro de San José" [ref=e221] [cursor=pointer]:
+                      - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                  - paragraph [ref=e222]: Ataque armado en avenida 5 dejó un fallecido la tarde de este domingo. OIJ identificó a la víctima.
+                  - generic [ref=e223]:
+                    - generic [ref=e224]:
+                      - text: Por
+                      - link "Yucsiany Salazar" [ref=e226] [cursor=pointer]:
+                        - /url: /autores/yucsiany-salazar/
+                      - text: ●
+                    - time [ref=e227]: 13 de abril 2026, 09:53 a. m.
+            - separator [ref=e228]
+            - article [ref=e229]:
+              - generic [ref=e230]:
+                - link [ref=e233] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                  - img [ref=e234]
+                - generic [ref=e237]:
+                  - heading "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [level=3] [ref=e239]:
+                    - link "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [ref=e240] [cursor=pointer]:
+                      - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                  - paragraph [ref=e241]: Hechos ocurrieron la tarde de este viernes en Colima de Tibás
+                  - generic [ref=e242]:
+                    - generic [ref=e243]:
+                      - text: Por
+                      - link "Sebastián Sánchez" [ref=e245] [cursor=pointer]:
+                        - /url: /autores/sebastian-sanchez/
+                      - text: ●
+                    - time [ref=e246]: 10 de abril 2026, 08:25 p. m.
+            - separator [ref=e247]
+          - generic [ref=e536]:
+            - text: Publicidad
+            - iframe [ref=e537]:
+              - insertion [ref=f188e3]:
+                - iframe [ref=f188e5]:
+                  - iframe [ref=f193e3]:
+                    - generic [ref=f205e2] [cursor=pointer]:
+                      - link [ref=f205e4]:
+                        - /url: https://privacy.us.criteo.com/adchoices?cppv=3&cpp=EDL-16i0adgHULJqL1TuimT8TkdWK_awW-M8SVT7tctz0AguB7mxPjkBXOFLNtvFitbfRbfAfhb-37mm-HNIfaFj56WNOFWsTld21hrJjEkFLy7_0N-Kh9zvImmNcqYs85l7MeklpeFe4T5I5VhP2mfqg2w
+                        - img [ref=f205e5]
+                      - img [ref=f205e7]
+                      - generic [ref=f205e12]:
+                        - generic [ref=f205e18]:
+                          - link "San José a Medellín $176 Vuela Hoy" [ref=f205e20]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=UHhnQX6qMTHy1gkDyzUgMUv-NF8r_aSBE2jb-BT4RMWK1HM_h6_i3oXimjfhQc9HMWA4OhglLnZSmJVoAOrwl01XDI3s4mSvISY7VOSAvYKmMEe14zuOU9vAT1VvCq5wMkhR3DTMS_mdygpD-dgqN7Btw9-KKVsqMaSN6R5KehQF4IVvrPlAl9pgKp8mmDCUqYHLWj4E1RXHSk9m2hVDJ4_OfJBZWesVqc1WdNwm4RiF6YDRKVTuP_zXgJwc5KYlTycTLHkyQKLQ2ANjR4Y-zjh44Cu39Wr506PRul5E1oS0Gtck62QOFrox5QobcL84TnVmlk4mbn_iueGys2_-wlXxNc-FDX9ORm_jD2iszZ4VT6Xfz7YVwHl_YNmHUfZt664MQfokW0-_sAp-dVjsO_YO98xsy28HbNSTW5R7me_HG_KEqUVVu0kHRP5oK3cpqS_rOoO_RDwJ87OAxrpZFk3pCPQVBqxIQ5vHfqs_0uabgZt-e-c0noVVEcCFYzJjx7YHvcJNQiW4nk91FQIltctQ5NeI4vZk2aQftHyTZb4EcdKLkcObgj4MwItItuLNZiYYmFAeQm2ek81diQntEVMY-31XxCeVJJkHyG5T13a_cKll&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-medellin%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3Ddd_o2iraAQD_84EXZl0ecQ
+                            - generic [ref=f205e22]:
+                              - generic [ref=f205e24]: San José a Medellín
+                              - generic [ref=f205e29]:
+                                - generic [ref=f205e31]: $176
+                                - generic [ref=f205e35]: Vuela Hoy
+                          - link "San José a San Martín $163 Vuela Hoy" [ref=f205e37]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=pzZIcX6qMTHy1gkDyzUgMUv-NF8r_aSBE2jb-BT4RMWK1HM_h6_i3oXimjfhQc9HMWA4OhglLnZSmJVoAOrwl01XDI3s4mSvISY7VOSAvYKmMEe14zuOU9vAT1VvCq5wMkhR3DTMS_mdygpD-dgqN7Btw9-KKVsqMaSN6R5KehQF4IVvZnq1UPf-acK96w5sKNstAjbjHxRtX3PsSvBUEw0rz-rV3mURhWihL8Yf5gtgy-3g2BkLW3afM2SZnT04gZSwcD2I0UOtA6Q0biOxmixsGQhlRGgJDTd7rtWem_tdpA3ZuoUHydifTnWY1KGVkAp6rO_J5gKgj48G8j18J7IRegIFg4GDfvLnR5fVLUhDb1E694VJDW7JpG-hRHaSdRduY8bwa5wkezQjMngsVslJ9a635h_hCZEeV-Tp2yAl9MAkhuqpWKEp_2b4D8LO87n_e_FoLNdhnPofgMGcTf2-gxZ7AEAlHX6yafhanLmvdR-aP9ScTBJNGSvM28hJTquJnI-uH1rPPQboOEY65wywka5-scq2hTzV7fdUqjjJFbBqetzZfdUUbk8MQPClZ_9Cnkbm7lC4IPKY7dy8kMQg_SNJXyTze-sWHDlCdXV_OZex&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-san-martin%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3Dka6BjiraAQB7qdJ7JxzgDg
+                            - generic [ref=f205e39]:
+                              - generic [ref=f205e41]: San José a San Martín
+                              - generic [ref=f205e46]:
+                                - generic [ref=f205e48]: $163
+                                - generic [ref=f205e52]: Vuela Hoy
+                          - link "San José a New York $197 Vuela Hoy" [ref=f205e54]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=XJDZ6X6qMTHy1gkDyzUgMUv-NF8r_aSBE2jb-BT4RMWK1HM_h6_i3oXimjfhQc9HMWA4OhglLnZSmJVoAOrwl01XDI3s4mSvISY7VOSAvYKmMEe14zuOU9vAT1VvCq5wMkhR3DTMS_mdygpD-dgqN7Btw9-KKVsqMaSN6R5KehQF4IVvMdO4e4OeZvoJ_z7P3y2pom2nchb8j018hekl-2My812gdXlnh6sOeYGUMWsn0EbeC56m37NLNWtZ44QT4bBgq9kS2LOVoDGF5LVBV2WSSM1YXz2hpOZu3ZSX2eWPfVoJeSmEPd7Ii6aAGbXp4MUtGc2caz1ySr7e-0HE1dFrQQh-YA5jksp0mTP1-jIFiuvhMQ1LBiOyu3_VUED-xq1sIeICBNpjXQ1kTElrYXcJbIHRmk3n5H4p1HgOqRBcumcZt4AJ7EOsMla2zlgCu7vVcmcFoOzGxmMynUvZ_NvdaQsWbs8fdvqiizXuPpxzYIGb9i_o2uwzYDdeLIwokbv_ivJOF_Un1HEf2IYM8VDYDngK7esxvs8kGzEwwvjdPc1QLQMUSV314k_Q8E3c1eeKp4JmIhG9bR-_HXEWoK9T7u36YSfVxhFd35-umv2sus5J&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-nueva-york-newark%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DYT0lVCraAQB9oBAOntYhBA
+                            - generic [ref=f205e56]:
+                              - generic [ref=f205e58]: San José a New York
+                              - generic [ref=f205e63]:
+                                - generic [ref=f205e65]: $197
+                                - generic [ref=f205e69]: Vuela Hoy
+                          - link "San José a Santo Domin… $171 Vuela Hoy" [ref=f205e71]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=xe2kCn6qMTHy1gkDyzUgMUv-NF8r_aSBE2jb-BT4RMWK1HM_h6_i3oXimjfhQc9HMWA4OhglLnZSmJVoAOrwl01XDI3s4mSvISY7VOSAvYKmMEe14zuOU9vAT1VvCq5wMkhR3DTMS_mdygpD-dgqN7Btw9-KKVsqMaSN6R5KehQF4IVvKek8GWmgUNW8wxeMvzjXKZJ3d0mpKZIAQIm9Sr78o3ZqjAKof0OX4WvaRkQmkwGID6cMPcKjiw6pQH-sljbQzs36nvhA0bLC_BcgIPvjPKg4x229XqXTiCR_jq7ouVESXaguPHI_NoLyS2k3y_2Dkazbxc8IFEEhZzEMIoaM5K6jDU0S2x1sSpGEGDT5087CDG6S9ySvZ-mUoonqc5MN8yKeaqE0G1laH5YKfWKu-fqOocXfIyYuzW6h_DOEw0E5KZadBo0Y_ibivWHxerNZeGoeU0TfZSAMnDZjOie7gcL2KBlFLbZNRqAKVKITVYJIStjwXaTlbveXIn9xiKMCGQKVIlRZzYWahMyZv8h_USv9-IAlL216vWEFx4_727uwTDwgkAdS_ajRzbnRNnebGt-fgW4uZPrB0ecbj-gj-wSvIah1Tea_zAkKImKuJ82h&maxdest=https%3A%2F%2Fpromos.arajet.com%2Fes%2Fvuelos-de-san-jose-a-santo-domingo%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DHAQfsSraAQCz0uDULFOnnA
+                            - generic [ref=f205e73]:
+                              - generic [ref=f205e75]: San José a Santo Domin…
+                              - generic [ref=f205e80]:
+                                - generic [ref=f205e82]: $171
+                                - generic [ref=f205e86]: Vuela Hoy
+                        - link [ref=f205e87]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=08dtpH6qMTHy1gkDyzUgMUv-NF8r_aSBE2jb-BT4RMWK1HM_h6_i3oXimjfhQc9HMWA4OhglLnZSmJVoAOrwl01XDI3s4mSvISY7VOSAvYKmMEe14zuOU9vAT1VvCq5wMkhR3DTMS_mdygpD-dgqN7Btw9-KKVsqMaSN6R5KehQF4IVvnFeabRXGcfO3yvDtwqoe3qBZCWNwVTKkE1WeK_CdGmgA_h4Bg-1a6l0PZtcFlhIMnE6zku3hFB11o9pSL-sIRukOAq-ohdifKVdEpFWrHKCcBhRd50XoeP68Q0-l7m5_LpurDjLzR-kpqBqSahsWNdb1n6i3w46JIPBtwwyFooH-oY0a02j_liBycJl635Ktxy7CL5SXOUVrIJNmqRahqFMJuhAukCGHf15TMLQdjEP7mbjaE2JU9pTTiAtcujYpyk8QxAIAtzlzk-7YXUjKBLd-MW6rJifwtswxRXBlHATI1G-Sp6EK30iQpYNBpHG9_Z_7GB9pTKWXlyrc_6LjKfDBkWjinpGOjLB7iDOJevHoj9v7P4X6Iz_I0b5jBML94G5srw9LYj-X7DHev1yhZMaKUDByB2lsCVQ_CtyKp0I&maxdest=https%3A%2F%2Fwww.arajet.com%2F%3Futm_source%3Dcriteo%26utm_medium%3Dpaid_media%26utm_campaign%3DCR_SJO_SALES_AON_NP_CATALOG_SJO_BROAD_General_Catalog%26utm_content%3DSJO-GL_CAT_AON_JUN25_CATALOG_TEST%26utm_id%3D529077%26cto_pld%3DKt8CFiraAQDNy2ECI9aYmQ
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - link [ref=e256] [cursor=pointer]:
+                - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                - img [ref=e257]
+              - 'link "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [ref=e260] [cursor=pointer]':
+                - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                - 'heading "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [level=3] [ref=e261]'
+              - generic [ref=e262]:
+                - link "En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido." [ref=e264] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                  - paragraph [ref=e265]: En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido.
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e269] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e270]: 10 de abril 2026, 01:37 p. m.
+            - generic [ref=e271]:
+              - link [ref=e273] [cursor=pointer]:
+                - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                - img [ref=e274]
+              - link "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [ref=e277] [cursor=pointer]:
+                - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                - heading "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [level=3] [ref=e278]
+              - generic [ref=e279]:
+                - link "OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa" [ref=e281] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                  - paragraph [ref=e282]: OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e286] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e287]: 10 de abril 2026, 10:29 a. m.
+            - generic [ref=e288]:
+              - link [ref=e290] [cursor=pointer]:
+                - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                - img [ref=e291]
+              - link "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [ref=e294] [cursor=pointer]:
+                - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                - heading "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [level=3] [ref=e295]
+              - generic [ref=e296]:
+                - link "El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba" [ref=e298] [cursor=pointer]:
+                  - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                  - paragraph [ref=e299]: El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e303] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e304]: 10 de abril 2026, 07:52 a. m.
+            - generic [ref=e305]:
+              - link [ref=e307] [cursor=pointer]:
+                - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                - img [ref=e308]
+              - link "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [ref=e311] [cursor=pointer]:
+                - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                - heading "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [level=3] [ref=e312]
+              - generic [ref=e313]:
+                - link "El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026." [ref=e315] [cursor=pointer]:
+                  - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                  - paragraph [ref=e316]: El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026.
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e320] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e321]: 10 de abril 2026, 06:33 a. m.
+            - generic [ref=e322]:
+              - link [ref=e324] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                - img [ref=e325]
+              - link "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [ref=e328] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                - heading "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [level=3] [ref=e329]
+              - generic [ref=e330]:
+                - link "OIJ permanece en el sitio, en Matina de Limón" [ref=e332] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                  - paragraph [ref=e333]: OIJ permanece en el sitio, en Matina de Limón
+                - generic [ref=e334]:
+                  - generic [ref=e335]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e337] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e338]: 09 de abril 2026, 08:11 p. m.
+            - button "Ver más historias sobre este tema" [ref=e340]: Ver más
+        - complementary [ref=e341]:
+          - generic [ref=e538]:
+            - text: Publicidad
+            - iframe [ref=e539]:
+              - insertion [ref=f189e3]:
+                - iframe [ref=f189e5]:
+                  - iframe [ref=f195e3]:
+                    - generic [ref=f202e2] [cursor=pointer]:
+                      - link [ref=f202e4]:
+                        - /url: https://privacy.us.criteo.com/adchoices?cppv=3&cpp=BaQc1SFO5LjzYAp4GCtldOlHonR_Zx6uAZBJ0AxsQ_X0E-jQ0ow0VjpHjx5VgQ6hFt2Q0SVou9c2WXcWxWM1cggoauQcLX1k2Ap0pwN4d-ks69VF11sYoCbXSiTH6ls9RCne3MihWnD4rWmi03RgIt4sfYo
+                        - img [ref=f202e5]
+                      - img [ref=f202e7]
+                      - generic [ref=f202e12]:
+                        - link [ref=f202e13]:
+                          - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=Xfri9_oOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRqTASeiYNGXHH1s6DQohZBKC0UbCnwWKOdADPuhiNnMrHDxMsV_WEtcW6VqgMqFodTObYRGJnY9gspZ7QXNtAvCMyhyEvfTZnb_NtwR_X6VKFT6aBl95J7LzxLe-leGCEvicyDSauyLZJywju4qF2ZYzw-zsJ04sNLvxXBg-ZwKK7XWB7fNsU_Roewj-GitfuLLMveNd_ykM753mhy4qFTT1wZv7AULLR3VxnCRftzl2APjMKW-qYuxmcQe2B-zBAijbx0t482AEd96BZJHtncfhFSJSxPsnxsoy2hfpQj4oNnO-mCIBKPRxMzE6ofpzXAY4L9a0AWSkZ_Engfrl7xTgpfMREG7_pNcZYICFz7hRUKpAtMkcW4eqCKYOQtATdwS-Njmw1Ytc8vxw-gySE3Z2vnK--lrAWmYRd5gHJgT0&maxdest=https%3A%2F%2Fnovex.cr%2F%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DXtDJQg-zAQDZeKEtVethZw
+                        - generic [ref=f202e25]:
+                          - link "₡35 900" [ref=f202e27]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=GhtzMvoOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRk2BqAXbqFBtstFiI0tj8VV1xYi5FCWjyG5eOo5tyvIGZac_KtPfB5BZ0R7ne118TR_ew_E74jlVTWO1XUzQT-IlGcAxeh7gYUQBOETCHxD-RopuMf78u35AXT5bMC47xbwdvYWSkpyJR5e14YZincs7C4z-FD0g4TdQrvZs2dnN1b0ZYjQa6aczOcbvVaRSG_LiH2Ex8NgaJnm8sF3sEvblH8nVt1-Ok3Pzkn0iFkVq4oVD08PVE-ajgQfVDBWn6SBmTLgPHMrZo2yBhURcwjCRhvyQSeMNnGzZIyGU-1Jj-2YQH0bu-pn3rvMRSr2swneJttw5atiUG4clHKt_CzaePs3eioix_ID91fK_OP7vX39JbEeIIoK3zq4BDdiywhnkKuQlbzP62-NjirunNaSbJam7xnYOZHssjTXYcabLRrqUIlWQxJh47VErVaFGa&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F459864%2FPuerta-hdf-texturada-amparo-walnut-90x210.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DpL6_7g-zAQAF5OoEl7RnFg
+                            - generic [ref=f202e52]: ₡35 900
+                          - link "₡26 400" [ref=f202e54]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=EIlz9_oOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRP8XYd20xZVPkEMIuAQvuiCD3W7e7fB_3SnK6xKxG82SyCnebJSGJpCrrs4X8W2DpnWyRX8eFot4cP9CC5b0Sk1WPKaQ6HNO5vQZ0sXi-RZm9rdVJ4OJo7unqRgjPHXG01GUqknB8P4Q2p9osZz7vQlEUjic8P4DKgRaxNCNunkFSbGYH_v0_FCXaZrjRe9SJ02jYLwCHwEqK1QLNZcjYf7T6zr_8a97W7ZA2moTxOAKky7aVCgDJQGG3nQR7ipGqob6LUICNDbNakXQTLaG7-5aOdu7OiUrZhC0_0IS-DhGdqsZfXjJW2Dg8sOFnb61tPnNmZPRr_zvt4yOXDipQkxZLvPGP42qM_tNJlkZWAhGeUW1d0XJKrG94EEUptmNpO-fn_TkAqZFKdWETFb2mFvTnEnNTi9FUkn9XLVDamPLbcUBr6Gx5TiLj8ZxGohXz&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F437126%2FFregadero-inoxidable-de-submontar-76x455cm-1f-wsu3018d-304.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DJTeGjA-zAQBLUYt2NLvAmA
+                            - generic [ref=f202e79]: ₡26 400
+                          - link "₡128 990" [ref=f202e81]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=EyvAo_oOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRS8e07V8Q9HQkpFHzblnHsnW12DpQ5Qe1Y_ZfD-nmDUYCnNWlK_wNznewGR3aMKcKZgE1HMgj-CouGXWaERY1DEvQO5vbkzznqIbnrNF00ONshnkdKzonrUWrwwwBNdxNOV6ypP7trUqm9V8P-cnUHt0A6Q-XPQ1USmekjbMaXD9ntQYO0-JFcmF5xLLH7uc334-xTs5El4HZsWwjBVjpW-dUehFDIiymtO6b493Oj6YcXlgKNidhVHkDuR8fVnbQLJ9xsEDTmYBLgaSKHuKKM5XY4lWjwvDV49ZB64elpWRlfWcl2Ug1dRrLmoSZ5ED4iCxbJdUvHRVc1mZbiPV1Gg_qGmxOSVp6dGsXOziya6l6X1YYerY2iV64gULRI9_VoNiVS3w1-Iq3uBlfY4ZTSRtoINzlYLPI-moWKh6peOO6MhD_8J_g1bN4X1IiXKvf&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F445402%2FMueble-organizador-de-madera-965x120x40-cm-blanco.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3Drm1EIQ-zAQB7dNEy37sI-w
+                            - generic [ref=f202e106]: ₡128 990
+                          - link "₡11 200" [ref=f202e108]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=gBS9UvoOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRgt0ugIs-nDqycoX3xcIwrNhzWVmE8CkICK96oUi85Bbyj1CSkySLuqW6drLRrMGPAILUUjCOx2x6kUo2NJIUMsm0k7AB7vT4RENooWk5qeiYZGRh56pcDHx0IGca3ilz7A1HyfiuZ6AlXha7m8nTX_yjJcnqmIW25UTZIsWaO0UO65qv7oHYQYPne3bJg2bfXspcS6GWvR13QvDeeqWpA34-36jVWot5hgxjhhFDg2dIJmvybi19-uDMWc8VU24kdgow0KlY8nIN5tX3GFJBsXVSP6s6Y2N5VJj1BzR6uxP0ZXiqn5s-fGSgEJuepr0zMs4TrphVE4hhodpfZUNRAY4YaqPlbXUXmCObf-9d1XRV6BpW9UJLFbZaFNomYnGIILvTz0L6LygkU3ccb65NfTbbqmX9vG2G9S2vR5tOxZHvWfHO-ziGy4alCcRSjcLq&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F456910%2FSopladora-electrica-600w-110v.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3D4hOZiQ-zAQB_ByXXL_EM-w
+                            - generic [ref=f202e133]: ₡11 200
+                          - link "₡19 850" [ref=f202e135]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=u9ow9_oOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZR5xFHkSm8UVVOiEWnddWpZYoBrH2hTCajSU_n-hb4-tQ6bZCfrXYGDFMPqsQKTQ-PmhCFh7hT-kauqoSEhq0woTOE8AdpYN3YReRs4RpS4xNys-9xg5s2GZqZQ66fW1QDK2B-IzsIBbH55nri5TBzoaOmNn0JVx-nKhRVwthNlHdDHYVEU_h1bS9GYrUdzekmQNu4hmsdv-nVhKS8rO8uj7qjVss1qhdioW4Vjsh24eUFTMcFKATmVydEsNoEwruATxfiE-OJQS_AQKFrrfLjHbEyK4TcsyQlWauQAo-r4enEUWYgNOfzSeGgR01kLM_T_0HsKid1cxovjz1d8z68DoXxG7vKfxjebgblhc_X0CTgv5A5ogVu1SOSsW9kC2NKwhi2oAf_k7oWjEULm3XkfaSKNaZGFpIywNXbBgFpIx4TaeP0di03XL-TMOxp6ut2&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F440885%2FMartillo-de-mango-poli-fibra-de-cara-freasda-21-onzas.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DLH0vDw-zAQB6gElkN0oMrQ
+                            - generic [ref=f202e160]: ₡19 850
+                          - link "₡12 150" [ref=f202e162]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=OWrjxvoOiG6vhoSIjOR6mxImdZ0mblaNnxQmC7KsjXLS69IkrLygsNA0FMmUUVbifQG7LEQDJ2-FSaEEzZGo8miHmiZVdZ5qfyIxtztRLfsyrGJNsn9CZRDU3sH6YgL7dG2yvXrX1Qg97nDs3jUNS8dHOm2FIKBpmk3Riw-TOCQ5dPZRN4jSDGt4V0N0fpQJfrOVREHSfzFyBfYvY8DdzwV4bT3yHtOuljAA1sISDgAf303gLD1Trn75cq9hF88R9729y_FPk3809nU5RZtZa2VX8-hgEkajs6673SEMiM5iZQdmgeBUNdXN-MzLfmyxq2U_7_89B-tr0HUL-PwuDoPoH4dtZA1rzSR1yRKXBeXgTWORvpRbgfSUp2LLYAyY65kFm5g06560Qd7h1CJNscKant7ME4tf8924FYYNtL8zWtc2uaIm6iLQXeI6qxy3sjkbZUv4WK6kbanPyev-Exbkbav8m2S30r0eCPWbAzMnHtCtbuoMnYAchLgSObDMa_8yB7-ikiOkaasTgPKs4v6v_Am7NoExjQNR0EPFJjaQ0gqufr_o_ry-idXfQHzIURxDsbwFuJFJwOoeGnZq2J-TukpD-dkc89wGV1irgQ8uSE1A&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F154295%2FCinta-metrica-8-m-magnetica.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DLBgJSw-zAQAzrv9o9mUX7w
+                            - generic [ref=f202e187]: ₡12 150
+          - generic [ref=e348]:
+            - heading "ÚLTIMAS NOTICIAS" [level=2] [ref=e349]
+            - generic [ref=e351]:
+              - article [ref=e352]:
+                - heading "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [level=3] [ref=e357]:
+                  - link "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [ref=e358] [cursor=pointer]:
+                    - /url: /viva/murio-felipe-staiti-guitarrista-y-fundador-de/AVFCCHEVW5HM5KEQ3V5LUBLPAI/story/
+                - separator [ref=e359]
+              - article [ref=e360]:
+                - heading "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [level=3] [ref=e365]:
+                  - link "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [ref=e366] [cursor=pointer]:
+                    - /url: /viva/presentadores-de-giros-de-repretel-perdieron-el/NUSAHU34AZAD7K454HJVWJDVQU/story/
+                - separator [ref=e367]
+              - article [ref=e368]:
+                - heading "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [level=3] [ref=e373]:
+                  - link "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [ref=e374] [cursor=pointer]:
+                    - /url: /viva/tapon-no-se-guardo-nada-y-fue-tajante-sobre-lo-que/UPYR5NIN4BEWLEJWUSIQRTMSMI/story/
+                - separator [ref=e375]
+              - article [ref=e376]:
+                - heading "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e381]:
+                  - link "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [ref=e382] [cursor=pointer]:
+                    - /url: /puro-deporte/a-que-hora-es-el-psg-vs-liverpool-por-la-champions/ODCFYD347FGAZCENY2PPI5FJIU/story/
+                - separator [ref=e383]
+              - article [ref=e384]:
+                - heading "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e389]:
+                  - link "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [ref=e390] [cursor=pointer]:
+                    - /url: /puro-deporte/a-que-hora-es-el-atletico-de-madrid-vs-barcelona/25TMNJMBBBG3DHJ7PY4XAADBRA/story/
+                - separator [ref=e391]
+          - generic [ref=e392]:
+            - generic [ref=e540]:
+              - text: Publicidad
+              - iframe [ref=e541]:
+                - insertion [ref=f172e3]:
+                  - iframe [ref=f172e5]:
+                    
+            - generic [ref=e542]:
+              - text: Publicidad
+              - iframe [ref=e543]:
+                - insertion [ref=f208e3]:
+                  - iframe [ref=f208e5]:
+                    - iframe [ref=f212e3]:
+                      - generic [ref=f216e2] [cursor=pointer]:
+                        - link [ref=f216e4]:
+                          - /url: https://privacy.us.criteo.com/adchoices?cppv=3&cpp=o2-eYY2MvwYUvGVEzOVTuW2WKwMmJygxKlbBi2RgLEex0imnvZ6ytGEHYxGPsLqFJihjyH3hnvznovcUrUGKnpueJcczbceVOfSzI24msDXLdO88kYFLmLtabMdaNYYngiKgk-MF9pR8yM-yu7Mn_jplQwbc8kxWqfbCfSwIYJ1KG0LZ
+                          - img [ref=f216e5]
+                        - img [ref=f216e7]
+                        - generic [ref=f216e12]:
+                          - link [ref=f216e13]:
+                            - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=WjkyQfoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jiiEbitWfIa3bLu0e2jtCciiX5z6PbmOZH0Oi5FQUf6JeQqN4xVgo4Ajz5yQjxu076wPrF2EczDUSTxA4FE7Zb_QSdEwY2tCK7EtbyOdFNFIh82w_-NAzEG040xI-T7b568fOjAYhdNLh3ny43f1WXasMqtDJ1Hpk-I68p-7rZ69WVCoEEXHY8Kw-llWEPZim33dMbTIjUcs9z3JAO72NGQcEeai9hWLjeiA9puuop5C2RIY8N3O9RTYtASRSv3XtkKtAe-4v_zzmx-lN-Jj1572D-8APzfYlBGwpdwOT0KEb5NWd_hqVjcidozV1-M-RmeeKtsOnax518f0seVR3R4ryvzjxfRw9f4wxooTJkiJEP23Qk-O5cZd_uEEW_qsXIJ4fogzdsSpPfNXqVZ7zqQjJMRruSzg5PdDRRSEdUQQ&maxdest=https%3A%2F%2Fnovex.cr%2F%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DkJZRWA-zAQCi0aLfYiognQ
+                          - generic [ref=f216e27]:
+                            - generic [ref=f216e29]:
+                              - link "₡13 500" [ref=f216e32]:
+                                - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=yR7fXPoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO31zRGXwyQz09U-6ep8-Vzz7ebDEnjX1LVZGiX1hllJ0UjJ4Xlaep28N7229t3SYVfGXG1n9YmuQJd-A0pb3Tmu-GScnhrNwzh1ZEOO98LT_CPmPIdBbOkOPCkLPGqPZ941ENu7dKXLETMEwCZd6vl_mBjWwXX12HfdqqnupjJlAXoZVpn5e-izf_4SaiDeq7WIhjEXwE4-ySE9pQakXlIfFVo6CCr8Eb3-BK4LuzF6DOYWZKfDaUsjhDQNgAEu8p2cOG25Wga-jHdjYyatVx8SDmcZ_OS5MVoG7Y_We3NvGJHvnpecnmF2IuNUTEGzynSBMcF030ZmkNwZIHY54ZPbpKDh4zlZ6ymWl4H5PuMqOSH4wTjCw29v_JVKqUcdCddLaQvLrRGyD9HIg4RGleOLS1xEy2gBUlLv_iSsmbI_Qiq_BOimW0SMMjR5fI_gPx9VQf3PM-YwlHKU_Kl50oWs&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F12358%2FPrensa-para-taladro-de-4-pulg.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DtcM9xg-zAQBD43peA-ftow
+                                - generic [ref=f216e57]: ₡13 500
+                              - generic [ref=f216e58]:
+                                - link "₡127 490" [ref=f216e60]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=0e7S8PoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jDaU66_TpccmPRjOi6Xjh3Fi_jfMCVk8ltnVfW-1L-3JD7mXlNccp3_ReJUrpud-soihr_S-ai-orLIYt6nhziDiLuzzZpwEnDk8e0jRwmrpuWZuZWeYxAPhQmcEB4Kr9h0wCa9BuINEN7Y_pI0PwF4C6snkR3g7g1vSz29qyX0lrBeta8UOdgFk5xMrzdAL0Y7cFJDn2knDLobjmASb8v9MlafoXtbDTyNnsmidmcOOH51gwP4WCk8MHyx4aK9Y2PWLe-prVrHNhHYN4w1ge3oxgF4vBf4HfBWMYBB7E5q_uoGzj8S_s7zBW4eIV-O6_6mB8c9rEAlMhd-4bxgpzeSGxH8Jj0ObJBxTxB5uOmY3jLqQ1m-IPrILS73KNZKNjU0j43g_eZ-X-hSbP9M9ZsSZsly4xb1gl9Pk_Oh0n_TXgFnv7InBMhU0O3fMVjyeJ&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F453822%2FTaladro-percutor-inal%C3%A1mbrico-13-mm-%2B-atornillador-de-impacto-635-mm-18-v.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DAMmTnw-zAQDs-NxE953fjg
+                                  - generic [ref=f216e85]: ₡127 490
+                                - link "₡11 500" [ref=f216e87]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=rwU6ivoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jYR0oJjPoP5NoDgkPqtj36n2W9rDD84TmC7LUyH9zwO7I4lWdbyML3LQ2J2AX1S7_DbJ26BGJVCS1ZWxJEvLW0szCOUe78w9CGEFf554XSM2J1BjCBv84Wrh2z1KYP0FFD0dBD33a3988afEfhAaLMdFiPkMKEk8RrLsWy49qLcNjPuqw7Xc3MbkO95RxMMcOH7W4ah2TPCV2YTD1wmgspe2aVtNXRkBBt6FwCRqhQVKG6g7vv_yl0RqJLyIQgD5-O9_eTwlA4ve3kLMHWEXIsQZCX6BRs_evtJoadPVchADR4KQCydJZEyv-w3NMlJjo_dXFvX7wW3uzi032-G2Sd8D-JK3ROeRiPd-_9M1JauDeapjqEB8_Im6psPX7DSUTKCaSx-q7ZJCvUAFJUNiT_PBGhgHTPFBnUOI-z-Y4ljKFmRT6cFuFjYSR-_TirFcS&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F162673%2FEscudra-de-alumunia-con-muescas-de-trazado-7-pulg.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DljXzag-zAQBVShqVFggipw
+                                  - generic [ref=f216e112]: ₡11 500
+                            - generic [ref=f216e114]:
+                              - link "₡11 200" [ref=f216e117]:
+                                - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=AWsMS_oOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9j1e8yVaZMDBSF_6_4o3x8oPPVr6yB-q4q_8oNvebR17b4OTcNfF-rAZS9oZS9jVkgY1vIlNlvd0ZDjcSx9vsvjxeTqiE4fTYEV2lkcPSH5-FhFt_Nh8ISuZhLGAYOiaGiz0UnguMJqC0YUTVNTqkre-3JC8ZZ_PjmSr-Qill3rb7usxYPmMNAzmvZ9g1d2dnfhNsFUVGAZF-Rwne47wpCAR3K5A9oM68NQXiG08i0xX2mrvLzc-BlaNvJ9ipvzqSSq1qV8P-3Hh-QcoXQynbcemaPZTNq-XgDjDajzxvtzdBaeG2IJpbpDF4qE_gTLfBBYIuECgf3C2ixbRQ6IvvitCdocYIQkr1loNK-FBVpRGIpJg0UXufGbvYuK2ub_STpFJoKyN4eiZOiqUZ-hzKa4wG1HDjdQNO7KbrL-XFPBvDKay63fcuJqUChywRX2qVv&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F456910%2FSopladora-electrica-600w-110v.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DdAf6yQ-zAQBWDER6tktRZQ
+                                - generic [ref=f216e142]: ₡11 200
+                              - generic [ref=f216e143]:
+                                - link "₡12 150" [ref=f216e145]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=oUxwfPoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9j1TS9EeXKapUgQWiZ6wtDrGzgH_2LndFdcJwbMtnxylq_juTDl52OEuLfvei92Qkjl5l9oHqckVCd9ohugnr4ZbK0Xu6iA_g1KkfAuj_gkxtKLbruw5jESiUVnR0VKXFhA34kQ0A1bdU8fgqAMjipyYYh8KZBttcIuva8SaMp72v3AEuLCVHPkLo_pYSSiY2sOOsSK95lyc9Mik2fgWdOXiB2QzaPyGT7fKCSAJlAzkOjXf8KpY5HyHQjOkUz4EqhqyDAb8ZbmgqkiQpN0WdnqYwDVrXbvx6xNt1QyeWCuHhVBc5RaxEwWOQt0wrIQKvqgr_aVotlGRaismIOavc8HkLLG0QuFS7D6Or9aQryp5n8JIO7G-wqsVFmK3J_QMIHJKDKDq22oXBmKbPYRV-2KIjagaHzuxmx_QJGYGFdzus2k3uEZCDcj-NnZqSaLDJ2&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F154295%2FCinta-metrica-8-m-magnetica.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DEP_Pgg-zAQDSLrI0_o8Kyg
+                                  - generic [ref=f216e170]: ₡12 150
+                                - link "₡19 850" [ref=f216e172]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=ybk8I_oOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jfu6GRMh1R3juPP8mVYF7hBbWRyokorwU7Mh4eA2rPPIZFSusYSCGOksy6GGlAXekw25GanhYaBz2vxALDhJ4bNCsmNTIx7whVQIQ0o86htQ9QeNgmZI-nY5anCDOS7VieybWwW3Nwe8UdElFdglC_mBbbiuvBrG3_35Ie4xrjgP8mb4BYetkjh0NCOX63le80ysWqhU1htPxzIemkt9P1aKiVkJtAo8VOEoG5GF2nf27BoUcoWAqvCHGEPQ7kWWn5wktOBhcSUWlFQgNhdJbvUlcO1BfT48fcn71VOV4C13dyaCIgxM8lLIL3pPuB3bw_a5ZVhpQ69DzMpzUS6-lJK6I8VH9ziBihL0pABD133-lHRL2jVLL12VHvLc_hj5Efcf2to2vAI8Eca3MwjAQH94GR0pmggu6BAiVqIxuNHH5N_D6j0vbtllZGKRCqlgZ&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F440885%2FMartillo-de-mango-poli-fibra-de-cara-freasda-21-onzas.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3D9AqslQ-zAQCSQobtdWVJvQ
+                                  - generic [ref=f216e197]: ₡19 850
+                            - generic [ref=f216e199]:
+                              - link "₡85 000" [ref=f216e202]:
+                                - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=nAEkhfoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jepszmLI2ETsFBmwCxBOAbuQ8yCjdvdabAbF5uS5PQwVj36KZ_bFHowFmQK9VU6B4e4u5bcutWgDoJxwfCSAcc54XyHCLcHSclu6Xa1yiVt4wls29ofTNMFtufIwJfu3iHdkStlUlwIw6CJN1Pjfxq1J_1ZAMFTN2Z7Nd2xRONMRkAwzi0o6fmvgMeIi-ALETBcVmVA_eY8L6KTOT4kb5nX8nO6N-vDT7DMWyEV3vYxCV5P9UuDLOggRhAjtyJrxz95MA9Owd7uuSSBsrsJOtCfGXPvNSdCTNKn8VzxfMejmjK0uIT87-o5YTi6bf_cc7jNMmViGrpYyCoqnB6ZjoEMYvPyI6Ak0w5VwUmi9inq1EY3rUSc1-BhVqdAUqooZMTd8LD0immGQugT3NIwrc_gB6zuOHexvjHZt1CCwEHUSewaOkFePlrVQDMcBw-X-8&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F73268%2FExtractor-de-grasa--15x76x50cm-acero-inox.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3Dh6K6DQ-zAQDFGftt1G3IuQ
+                                - generic [ref=f216e227]: ₡85 000
+                              - generic [ref=f216e228]:
+                                - link "₡8 350" [ref=f216e230]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=h0s7zfoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9jOruGKLcNoMo_2Fd4Mh6kSzD1aqNG8YG2jlACu2BzvO9eWzhtymcaDzPLY6l4sKZOUV6A3xXeULAp1KGyJbncKNfjgzNPe3UGH-pzuHqctV8zf28xBZ5Vb1R6nLCmyS7qKs87EsprJBX-0achTAMg-nofjY7qDyrYIIdOhdP2yC7Bv6BWketzb7hQVViphSmehUHuDLJEC4esceYdl6-7nEBBIuqVtKwTfrXGABw2rkxz5YLChwVLkHJ8sQFxDRlehfF4kn4cPTdBjd3L8_BsVaituavUIB5zE6atvJZRiTX-V4tjMusiB73KUCCnIqCA8wyj15UnC87TDzD1mLhT-R-ehcFAZM8rawcJxnuxlXWxe0Arm0pH_pagd4rGa-ZjgFQzt1QdohMhw5JwF9-tkQ0a321ABySjb2CATrVeB_cZzQWMKfBVQJPGE1VYJELG&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F156473%2FLamina-plywood-okume-bb-cc-55mmx122x244cm.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3D2XaekA-zAQDIW-A0Fx4JGw
+                                  - generic [ref=f216e255]: ₡8 350
+                                - link "₡19 900" [ref=f216e257]:
+                                  - /url: https://cat.us5.us.criteo.com/delivery/ck.php?cppv=3&cpp=eIKZPfoOiG6vhoSIjOR6mxImdZ33m1RuKIXbi73sF4PeO2FyT7KaI2FEKBelZjUHO4_fNYZlhHPOR3g45RdqOzJFenxQ2YmGWHito071oR9zDdKhKj7N8BVBF-dHFSrcrX6ZwrwYf1R0rwkTLMrKUZi2dO36P8EDnFY6n1Ea88hu8z9j-HOGfvOZeHSJ5OtPxyDPLUsAo7HaCUxL62hvq_AhyPJ3wGvff8SgWYx51spdXbr-OvrCoUeo5bFTEeEPFTaGSuYjxbfTbuORPGWX_7EBe6uNXh1IB3WoOb15aFu5n9t9OuNTp-lvXQ--Qmg2ZNtSuQyKvBUdaCqgMvSresYiTZ1K-AxnKBWAxCNUf6h7HNu_Re7yW8RccgBmQ73WktNGnRSt3wURF5SB9yk7TPyt3L2hlvEW_c7uPVfLS3mUllNEJ2XgO1dDC-1ehK0zaaA0k_zSp2NHNeHR6bE4VWBU4Eh4lbJ8q7R1SLGNh6FI-miL1znM_9IWL_jY2c-roXWjpa9wfa4rsjTmDZ8k7vaJYPjgWa2jfY6-l6b7NTbHHCBPkkoQwNZ5s0m930_uEOZ4BrZNghLzLSTqr1X0He0gQgUGByLesIH3x3t6AlQE41cX&maxdest=https%3A%2F%2Fnovex.cr%2Fproducto%2F406781%2FDetector-multiple-3-n-1.html%3Futm_source%3Dcriteo%26utm_medium%3Ddisplay%26utm_campaign%3DAdquisicion%26utm_id%3D425166%26cto_pld%3DqE2ZSA-zAQC5NbDRmHkfXA
+                                  - generic [ref=f216e282]: ₡19 900
+    - contentinfo [ref=e403]:
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - generic [ref=e407]:
+            - link "Página de Facebook" [ref=e408] [cursor=pointer]:
+              - /url: https://www.facebook.com/lanacioncr/
+              - img [ref=e409]
+              - generic [ref=e411]: Página de Facebook
+            - link "Fuente Twitter" [ref=e412] [cursor=pointer]:
+              - /url: https://twitter.com/nacion
+              - img [ref=e413]
+              - generic [ref=e415]: Fuente Twitter
+            - link "Fuente RSS" [ref=e416] [cursor=pointer]:
+              - /url: https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml
+              - img [ref=e417]
+              - generic [ref=e419]: Fuente RSS
+          - paragraph [ref=e420]: © 2026 Todos los derechos reservados, cualquier uso requiere autorización expresa y por escrito de Grupo Nación GN S.A.
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - heading "Sobre nosotros" [level=2] [ref=e423]
+            - list [ref=e424]:
+              - listitem [ref=e425]:
+                - link "Grupo Nación Opens in new window" [ref=e426] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gruponacion/
+                  - text: Grupo Nación
+                  - generic [ref=e427]: Opens in new window
+              - listitem [ref=e428]:
+                - link "La Teja Opens in new window" [ref=e429] [cursor=pointer]:
+                  - /url: https://www.lateja.cr/
+                  - text: La Teja
+                  - generic [ref=e430]: Opens in new window
+              - listitem [ref=e431]:
+                - link "El Financiero Opens in new window" [ref=e432] [cursor=pointer]:
+                  - /url: https://www.elfinancierocr.com/
+                  - text: El Financiero
+                  - generic [ref=e433]: Opens in new window
+              - listitem [ref=e434]:
+                - link "Revista Perfil Opens in new window" [ref=e435] [cursor=pointer]:
+                  - /url: https://www.nacion.com/revista-perfil/
+                  - text: Revista Perfil
+                  - generic [ref=e436]: Opens in new window
+              - listitem [ref=e437]:
+                - link "Sabores Opens in new window" [ref=e438] [cursor=pointer]:
+                  - /url: https://www.nacion.com/sabores/
+                  - text: Sabores
+                  - generic [ref=e439]: Opens in new window
+              - listitem [ref=e440]:
+                - link "Aplicaciones Opens in new window" [ref=e441] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/apps/landing/index.html
+                  - text: Aplicaciones
+                  - generic [ref=e442]: Opens in new window
+              - listitem [ref=e443]:
+                - link "Boletines Opens in new window" [ref=e444] [cursor=pointer]:
+                  - /url: https://www.nacion.com/boletines/
+                  - text: Boletines
+                  - generic [ref=e445]: Opens in new window
+              - listitem [ref=e446]:
+                - link "Versión Impresa Opens in new window" [ref=e447] [cursor=pointer]:
+                  - /url: https://lanacioncostarica.pressreader.com/
+                  - text: Versión Impresa
+                  - generic [ref=e448]: Opens in new window
+          - generic [ref=e449]:
+            - heading "Negocios" [level=2] [ref=e450]
+            - list [ref=e451]:
+              - listitem [ref=e452]:
+                - link "Todo Busco Opens in new window" [ref=e453] [cursor=pointer]:
+                  - /url: https://www.nacion.com/todobusco/
+                  - text: Todo Busco
+                  - generic [ref=e454]: Opens in new window
+              - listitem [ref=e455]:
+                - link "Parque Viva Opens in new window" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.parqueviva.com/
+                  - text: Parque Viva
+                  - generic [ref=e457]: Opens in new window
+              - listitem [ref=e458]:
+                - link "Paute con nosotros Opens in new window" [ref=e459] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/comercial/VARIOS/TARIFARIO_LNCOMERCIAL_2025.pdf
+                  - text: Paute con nosotros
+                  - generic [ref=e460]: Opens in new window
+              - listitem [ref=e461]:
+                - link "Printea Opens in new window" [ref=e462] [cursor=pointer]:
+                  - /url: https://printea.com/es/
+                  - text: Printea
+                  - generic [ref=e463]: Opens in new window
+          - generic [ref=e464]:
+            - heading "Términos y condiciones" [level=2] [ref=e465]
+            - list [ref=e466]:
+              - listitem [ref=e467]:
+                - link "Políticas de privacidad Opens in new window" [ref=e468] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/privacidad.html
+                  - text: Políticas de privacidad
+                  - generic [ref=e469]: Opens in new window
+              - listitem [ref=e470]:
+                - link "Condiciones de uso Opens in new window" [ref=e471] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/condiciones.html
+                  - text: Condiciones de uso
+                  - generic [ref=e472]: Opens in new window
+              - listitem [ref=e473]:
+                - link "Estados financieros Opens in new window" [ref=e474] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/estados-financieros.html
+                  - text: Estados financieros
+                  - generic [ref=e475]: Opens in new window
+              - listitem [ref=e476]:
+                - link "Reglamentos Opens in new window" [ref=e477] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/comercial/reglamentos/index.html
+                  - text: Reglamentos
+                  - generic [ref=e478]: Opens in new window
+          - generic [ref=e479]:
+            - heading "Servicio al cliente" [level=2] [ref=e480]
+            - list [ref=e481]:
+              - listitem [ref=e482]:
+                - link "Contáctenos Opens in new window" [ref=e483] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/contacto.html
+                  - text: Contáctenos
+                  - generic [ref=e484]: Opens in new window
+              - listitem [ref=e485]:
+                - link "Centro de ayuda Opens in new window" [ref=e486] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/centro_de_ayuda.html
+                  - text: Centro de ayuda
+                  - generic [ref=e487]: Opens in new window
+              - listitem [ref=e488]:
+                - link "Planes de suscripción Opens in new window" [ref=e489] [cursor=pointer]:
+                  - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+                  - text: Planes de suscripción
+                  - generic [ref=e490]: Opens in new window
+        - figure [ref=e491]:
+          - img "La Nacion logo" [ref=e492]
+  - generic [ref=e500]:
+    - generic [ref=e504]:
+      - img "Icono" [ref=e506]
+      - generic [ref=e507]:
+        - heading "$1,99/mes por 3 meses." [level=2] [ref=e508]
+        - generic [ref=e509]: Equivale a $0,46 por semana.
+        - generic [ref=e510]:
+          - paragraph [ref=e511]: Noticias claras, fuentes fiables y análisis responsable.
+          - link "Suscríbase ahora" [ref=e512] [cursor=pointer]:
+            - /url: https://www.nacion.com/suscripciones/1589/oferta/OT4H9T2OPKLR/OTV9U44RZ7VQ8/?utm_source=Recommender&utm_medium=display+&utm_campaign=26&utm_cmp_rs=IL_85ywSroHSTS_nJmzqNYj8A
+    - img [ref=e515] [cursor=pointer]

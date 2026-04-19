@@ -1,0 +1,84 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation "Menú de secciones" [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e8]
+          - link "La Nacion logo" [ref=e21] [cursor=pointer]:
+            - /url: /
+          - navigation "Mejores enlaces" [ref=e23]
+          - button "Ingresar" [ref=e50]
+        - list [ref=e56]:
+          - listitem [ref=e57]
+          - listitem [ref=e59]
+          - listitem [ref=e62]
+          - listitem [ref=e65]
+          - listitem [ref=e68]
+          - listitem [ref=e70]
+          - listitem [ref=e72]
+          - listitem [ref=e78]
+          - listitem [ref=e80]
+          - listitem [ref=e86]
+          - listitem [ref=e88]
+          - listitem [ref=e102]
+          - listitem [ref=e104]
+          - listitem [ref=e110]
+          - listitem [ref=e112]
+          - listitem [ref=e114]
+          - listitem [ref=e116]
+          - listitem [ref=e118]
+          - listitem [ref=e120]
+          - listitem [ref=e122]
+          - listitem [ref=e124]
+          - listitem [ref=e126]
+          - listitem [ref=e128]
+          - listitem [ref=e134]
+          - listitem [ref=e136]
+          - listitem [ref=e142]
+          - listitem [ref=e148]
+          - listitem [ref=e154]
+          - listitem [ref=e157]
+          - listitem [ref=e160]
+          - listitem [ref=e166]
+          - listitem [ref=e168]
+          - listitem [ref=e171]
+          - listitem [ref=e173]
+    - main [ref=e174]:
+      - generic [ref=e175]:
+        - generic [ref=e534]:
+          - text: Publicidad
+          - iframe [ref=e535]:
+            
+        - heading "Crímenes" [level=1] [ref=e184]
+      - generic [ref=e185]:
+        - generic [ref=e188]:
+          - generic [ref=e190]
+          - generic [ref=e536]
+          - generic [ref=e253]
+        - complementary [ref=e341]:
+          - generic [ref=e538]
+          - generic [ref=e348]
+          - generic [ref=e392]
+    - contentinfo [ref=e403]:
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - generic [ref=e407]
+          - paragraph [ref=e420]: © 2026 Todos los derechos reservados, cualquier uso requiere autorización expresa y por escrito de Grupo Nación GN S.A.
+        - generic [ref=e421]:
+          - generic [ref=e422]
+          - generic [ref=e449]
+          - generic [ref=e464]
+          - generic [ref=e479]
+        - figure [ref=e491]:
+          - img "La Nacion logo" [ref=e492]
+  - generic [ref=e500]:
+    - generic [ref=e504]:
+      - img "Icono" [ref=e506]
+      - generic [ref=e507]:
+        - heading "$1,99/mes por 3 meses." [level=2] [ref=e508]
+        - generic [ref=e509]: Equivale a $0,46 por semana.
+        - generic [ref=e510]:
+          - paragraph [ref=e511]: Noticias claras, fuentes fiables y análisis responsable.
+          - link "Suscríbase ahora" [ref=e512] [cursor=pointer]:
+            - /url: https://www.nacion.com/suscripciones/1589/oferta/OT4H9T2OPKLR/OTV9U44RZ7VQ8/?utm_source=Recommender&utm_medium=display+&utm_campaign=26&utm_cmp_rs=IL_85ywSroHSTS_nJmzqNYj8A
+    - img [ref=e515] [cursor=pointer]

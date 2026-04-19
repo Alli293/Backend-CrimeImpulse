@@ -1,0 +1,496 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - navigation "Menú de secciones" [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e8]:
+          - button [ref=e11] [cursor=pointer]:
+            - img [ref=e13]
+          - button "Secciones" [ref=e16] [cursor=pointer]:
+            - text: Secciones
+            - img [ref=e18]
+        - link "La Nacion logo" [ref=e21] [cursor=pointer]:
+          - /url: /
+          - img "La Nacion logo" [ref=e22]
+        - navigation "Mejores enlaces" [ref=e23]:
+          - link "Últimas noticias" [ref=e25] [cursor=pointer]:
+            - /url: /ultimas-noticias/
+          - link "Suscriptores" [ref=e27] [cursor=pointer]:
+            - /url: /mis-beneficios/
+          - link "El País" [ref=e29] [cursor=pointer]:
+            - /url: /el-pais/
+          - link "Política" [ref=e31] [cursor=pointer]:
+            - /url: /politica/
+          - link "Puro Deporte" [ref=e33] [cursor=pointer]:
+            - /url: /puro-deporte/
+          - link "Economía" [ref=e35] [cursor=pointer]:
+            - /url: /economia/
+          - link "Sucesos" [ref=e37] [cursor=pointer]:
+            - /url: /sucesos/
+          - link "El Explicador" [ref=e39] [cursor=pointer]:
+            - /url: /el-explicador/
+          - link "Opinión" [ref=e41] [cursor=pointer]:
+            - /url: /opinion/
+          - link "Viva" [ref=e43] [cursor=pointer]:
+            - /url: /viva/
+          - link "El Mundo" [ref=e45] [cursor=pointer]:
+            - /url: /el-mundo/
+        - button "Ingresar" [ref=e50]:
+          - img [ref=e51]
+          - generic [ref=e53]: Ingresar
+      - list [ref=e56]:
+        - listitem [ref=e57]:
+          - link "Últimas noticias" [ref=e58] [cursor=pointer]:
+            - /url: /ultimas-noticias/
+        - listitem [ref=e59]:
+          - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e60] [cursor=pointer]:
+            - /url: https://www.nacion.com/suscripcion-digital/
+            - text: Planes de suscripción
+            - generic [ref=e61]: (Se abre en una nueva ventana)
+        - listitem [ref=e62]:
+          - link "Boletines (Se abre en una nueva ventana)" [ref=e63] [cursor=pointer]:
+            - /url: https://www.nacion.com/boletines/
+            - text: Boletines
+            - generic [ref=e64]: (Se abre en una nueva ventana)
+        - listitem [ref=e65]:
+          - link "Suscriptores (Se abre en una nueva ventana)" [ref=e66] [cursor=pointer]:
+            - /url: https://www.nacion.com/mis-beneficios/
+            - text: Suscriptores
+            - generic [ref=e67]: (Se abre en una nueva ventana)
+        - listitem [ref=e68]:
+          - link "El País" [ref=e69] [cursor=pointer]:
+            - /url: /el-pais/
+        - listitem [ref=e70]:
+          - link "Política" [ref=e71] [cursor=pointer]:
+            - /url: /politica/
+        - listitem [ref=e72]:
+          - generic [ref=e73] [cursor=pointer]:
+            - link "Puro Deporte" [ref=e74]:
+              - /url: /puro-deporte/
+            - button "Mostrar Puro Deporte subsecciones" [ref=e75]:
+              - img [ref=e76]
+        - listitem [ref=e78]:
+          - link "El Explicador" [ref=e79] [cursor=pointer]:
+            - /url: /el-explicador/
+        - listitem [ref=e80]:
+          - generic [ref=e81] [cursor=pointer]:
+            - link "Viva" [ref=e82]:
+              - /url: /viva/
+            - button "Mostrar Viva subsecciones" [ref=e83]:
+              - img [ref=e84]
+        - listitem [ref=e86]:
+          - link "En confianza" [ref=e87] [cursor=pointer]:
+            - /url: /viva/en-confianza-videopodcast/
+        - listitem [ref=e88]:
+          - generic [ref=e89] [cursor=pointer]:
+            - link "Sucesos" [ref=e90]:
+              - /url: /sucesos/
+            - button "Mostrar Sucesos subsecciones" [expanded] [ref=e91]:
+              - img [ref=e92]
+          - list [ref=e95]:
+            - listitem [ref=e96]:
+              - link "Accidentes" [ref=e97] [cursor=pointer]:
+                - /url: /sucesos/accidentes/
+            - listitem [ref=e98]:
+              - link "Crímenes" [ref=e99] [cursor=pointer]:
+                - /url: /sucesos/crimenes/
+            - listitem [ref=e100]:
+              - link "Narcotráfico" [ref=e101] [cursor=pointer]:
+                - /url: /sucesos/narcotrafico/
+        - listitem [ref=e102]:
+          - link "Economía" [ref=e103] [cursor=pointer]:
+            - /url: /economia/
+        - listitem [ref=e104]:
+          - generic [ref=e105] [cursor=pointer]:
+            - link "Opinión" [ref=e106]:
+              - /url: /opinion/
+            - button "Mostrar Opinión subsecciones" [ref=e107]:
+              - img [ref=e108]
+        - listitem [ref=e110]:
+          - link "Por tanto" [ref=e111] [cursor=pointer]:
+            - /url: /blogs/por-tanto/
+        - listitem [ref=e112]:
+          - link "El Mundo" [ref=e113] [cursor=pointer]:
+            - /url: /el-mundo/
+        - listitem [ref=e114]:
+          - link "Mi Bienestar" [ref=e115] [cursor=pointer]:
+            - /url: /mi-bienestar/
+        - listitem [ref=e116]:
+          - link "Revista Dominical" [ref=e117] [cursor=pointer]:
+            - /url: /revista-dominical/
+        - listitem [ref=e118]:
+          - link "Spotlight" [ref=e119] [cursor=pointer]:
+            - /url: /spotlight/
+        - listitem [ref=e120]:
+          - link "Life Hacks" [ref=e121] [cursor=pointer]:
+            - /url: /life-hacks/
+        - listitem [ref=e122]:
+          - link "#NoComaCuento" [ref=e123] [cursor=pointer]:
+            - /url: /no-coma-cuento/
+        - listitem [ref=e124]:
+          - link "Áncora" [ref=e125] [cursor=pointer]:
+            - /url: /ancora/
+        - listitem [ref=e126]:
+          - link "Tecnología" [ref=e127] [cursor=pointer]:
+            - /url: /tecnologia/
+        - listitem [ref=e128]:
+          - generic [ref=e129] [cursor=pointer]:
+            - link "Ciencia" [ref=e130]:
+              - /url: /ciencia/
+            - button "Mostrar Ciencia subsecciones" [ref=e131]:
+              - img [ref=e132]
+        - listitem [ref=e134]:
+          - link "Podcasts" [ref=e135] [cursor=pointer]:
+            - /url: /podcast/
+        - listitem [ref=e136]:
+          - generic [ref=e137] [cursor=pointer]:
+            - link "Videos" [ref=e138]:
+              - /url: /videos/
+            - button "Mostrar Videos subsecciones" [ref=e139]:
+              - img [ref=e140]
+        - listitem [ref=e142]:
+          - generic [ref=e143] [cursor=pointer]:
+            - link "Brandvoice" [ref=e144]:
+              - /url: /brandvoice/
+            - button "Mostrar Brandvoice subsecciones" [ref=e145]:
+              - img [ref=e146]
+        - listitem [ref=e148]:
+          - generic [ref=e149] [cursor=pointer]:
+            - link "TodoBusco" [ref=e150]:
+              - /url: /todobusco/
+            - button "Mostrar TodoBusco subsecciones" [ref=e151]:
+              - img [ref=e152]
+        - listitem [ref=e154]:
+          - link "Edición Impresa (Se abre en una nueva ventana)" [ref=e155] [cursor=pointer]:
+            - /url: https://lanacioncostarica.pressreader.com/
+            - text: Edición Impresa
+            - generic [ref=e156]: (Se abre en una nueva ventana)
+        - listitem [ref=e157]:
+          - link "Pasatiempos (Se abre en una nueva ventana)" [ref=e158] [cursor=pointer]:
+            - /url: https://www.nacion.com/pasatiempos/
+            - text: Pasatiempos
+            - generic [ref=e159]: (Se abre en una nueva ventana)
+        - listitem [ref=e160]:
+          - generic [ref=e161] [cursor=pointer]:
+            - link "Revista Perfil" [ref=e162]:
+              - /url: /revista-perfil/
+            - button "Mostrar Revista Perfil subsecciones" [ref=e163]:
+              - img [ref=e164]
+        - listitem [ref=e166]:
+          - link "Sabores" [ref=e167] [cursor=pointer]:
+            - /url: /sabores/
+        - listitem [ref=e168]:
+          - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e169] [cursor=pointer]:
+            - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+            - text: Planes de suscripción
+            - generic [ref=e170]: (Se abre en una nueva ventana)
+        - listitem [ref=e171]:
+          - link "Blogs" [ref=e172] [cursor=pointer]:
+            - /url: /blogs/
+        - listitem [ref=e173]
+  - main [ref=e174]:
+    - heading "Crímenes" [level=1] [ref=e182]
+    - generic [ref=e183]:
+      - generic [ref=e186]:
+        - generic [ref=e188]:
+          - article [ref=e189]:
+            - generic [ref=e190]:
+              - link [ref=e193] [cursor=pointer]:
+                - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                - img [ref=e194]
+              - generic [ref=e197]:
+                - 'heading "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [level=3] [ref=e199]':
+                  - 'link "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [ref=e200] [cursor=pointer]':
+                    - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                - paragraph [ref=e201]: Policía Judicial reportó siete homicidios este fin de semana.
+                - generic [ref=e202]:
+                  - generic [ref=e203]:
+                    - text: Por
+                    - link "Christian Montero" [ref=e205] [cursor=pointer]:
+                      - /url: /autores/christian-montero/
+                    - text: ●
+                  - time [ref=e206]: 13 de abril 2026, 05:05 p. m.
+          - separator [ref=e207]
+          - article [ref=e208]:
+            - generic [ref=e209]:
+              - link [ref=e212] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                - img [ref=e213]
+              - generic [ref=e216]:
+                - heading "Hombre de 34 años es asesinado a balazos en centro de San José" [level=3] [ref=e218]:
+                  - link "Hombre de 34 años es asesinado a balazos en centro de San José" [ref=e219] [cursor=pointer]:
+                    - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                - paragraph [ref=e220]: Ataque armado en avenida 5 dejó un fallecido la tarde de este domingo. OIJ identificó a la víctima.
+                - generic [ref=e221]:
+                  - generic [ref=e222]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e224] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e225]: 13 de abril 2026, 09:53 a. m.
+          - separator [ref=e226]
+          - article [ref=e227]:
+            - generic [ref=e228]:
+              - link [ref=e231] [cursor=pointer]:
+                - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                - img [ref=e232]
+              - generic [ref=e235]:
+                - heading "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [level=3] [ref=e237]:
+                  - link "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [ref=e238] [cursor=pointer]:
+                    - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                - paragraph [ref=e239]: Hechos ocurrieron la tarde de este viernes en Colima de Tibás
+                - generic [ref=e240]:
+                  - generic [ref=e241]:
+                    - text: Por
+                    - link "Sebastián Sánchez" [ref=e243] [cursor=pointer]:
+                      - /url: /autores/sebastian-sanchez/
+                    - text: ●
+                  - time [ref=e244]: 10 de abril 2026, 08:25 p. m.
+          - separator [ref=e245]
+        - generic [ref=e249]:
+          - generic [ref=e250]:
+            - link [ref=e252] [cursor=pointer]:
+              - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+              - img [ref=e253]
+            - 'link "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [ref=e256] [cursor=pointer]':
+              - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+              - 'heading "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [level=3] [ref=e257]'
+            - generic [ref=e258]:
+              - link "En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido." [ref=e260] [cursor=pointer]:
+                - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                - paragraph [ref=e261]: En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido.
+              - generic [ref=e262]:
+                - generic [ref=e263]:
+                  - text: Por
+                  - link "Yucsiany Salazar" [ref=e265] [cursor=pointer]:
+                    - /url: /autores/yucsiany-salazar/
+                  - text: ●
+                - time [ref=e266]: 10 de abril 2026, 01:37 p. m.
+          - generic [ref=e267]:
+            - link [ref=e269] [cursor=pointer]:
+              - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+              - img [ref=e270]
+            - link "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [ref=e273] [cursor=pointer]:
+              - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+              - heading "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [level=3] [ref=e274]
+            - generic [ref=e275]:
+              - link "OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa" [ref=e277] [cursor=pointer]:
+                - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                - paragraph [ref=e278]: OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa
+              - generic [ref=e279]:
+                - generic [ref=e280]:
+                  - text: Por
+                  - link "Yucsiany Salazar" [ref=e282] [cursor=pointer]:
+                    - /url: /autores/yucsiany-salazar/
+                  - text: ●
+                - time [ref=e283]: 10 de abril 2026, 10:29 a. m.
+          - generic [ref=e284]:
+            - link [ref=e286] [cursor=pointer]:
+              - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+              - img [ref=e287]
+            - link "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [ref=e290] [cursor=pointer]:
+              - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+              - heading "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [level=3] [ref=e291]
+            - generic [ref=e292]:
+              - link "El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba" [ref=e294] [cursor=pointer]:
+                - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                - paragraph [ref=e295]: El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba
+              - generic [ref=e296]:
+                - generic [ref=e297]:
+                  - text: Por
+                  - link "Yucsiany Salazar" [ref=e299] [cursor=pointer]:
+                    - /url: /autores/yucsiany-salazar/
+                  - text: ●
+                - time [ref=e300]: 10 de abril 2026, 07:52 a. m.
+          - generic [ref=e301]:
+            - link [ref=e303] [cursor=pointer]:
+              - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+              - img [ref=e304]
+            - link "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [ref=e307] [cursor=pointer]:
+              - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+              - heading "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [level=3] [ref=e308]
+            - generic [ref=e309]:
+              - link "El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026." [ref=e311] [cursor=pointer]:
+                - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                - paragraph [ref=e312]: El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026.
+              - generic [ref=e313]:
+                - generic [ref=e314]:
+                  - text: Por
+                  - link "Yucsiany Salazar" [ref=e316] [cursor=pointer]:
+                    - /url: /autores/yucsiany-salazar/
+                  - text: ●
+                - time [ref=e317]: 10 de abril 2026, 06:33 a. m.
+          - generic [ref=e318]:
+            - link [ref=e320] [cursor=pointer]:
+              - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+              - img [ref=e321]
+            - link "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [ref=e324] [cursor=pointer]:
+              - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+              - heading "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [level=3] [ref=e325]
+            - generic [ref=e326]:
+              - link "OIJ permanece en el sitio, en Matina de Limón" [ref=e328] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                - paragraph [ref=e329]: OIJ permanece en el sitio, en Matina de Limón
+              - generic [ref=e330]:
+                - generic [ref=e331]:
+                  - text: Por
+                  - link "Yucsiany Salazar" [ref=e333] [cursor=pointer]:
+                    - /url: /autores/yucsiany-salazar/
+                  - text: ●
+                - time [ref=e334]: 09 de abril 2026, 08:11 p. m.
+          - button "Ver más historias sobre este tema" [ref=e336]: Ver más
+      - complementary [ref=e337]:
+        - generic [ref=e342]:
+          - heading "ÚLTIMAS NOTICIAS" [level=2] [ref=e343]
+          - generic [ref=e345]:
+            - article [ref=e346]:
+              - heading "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [level=3] [ref=e351]:
+                - link "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [ref=e352] [cursor=pointer]:
+                  - /url: /viva/murio-felipe-staiti-guitarrista-y-fundador-de/AVFCCHEVW5HM5KEQ3V5LUBLPAI/story/
+              - separator [ref=e353]
+            - article [ref=e354]:
+              - heading "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [level=3] [ref=e359]:
+                - link "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [ref=e360] [cursor=pointer]:
+                  - /url: /viva/presentadores-de-giros-de-repretel-perdieron-el/NUSAHU34AZAD7K454HJVWJDVQU/story/
+              - separator [ref=e361]
+            - article [ref=e362]:
+              - heading "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [level=3] [ref=e367]:
+                - link "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [ref=e368] [cursor=pointer]:
+                  - /url: /viva/tapon-no-se-guardo-nada-y-fue-tajante-sobre-lo-que/UPYR5NIN4BEWLEJWUSIQRTMSMI/story/
+              - separator [ref=e369]
+            - article [ref=e370]:
+              - heading "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e375]:
+                - link "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [ref=e376] [cursor=pointer]:
+                  - /url: /puro-deporte/a-que-hora-es-el-psg-vs-liverpool-por-la-champions/ODCFYD347FGAZCENY2PPI5FJIU/story/
+              - separator [ref=e377]
+            - article [ref=e378]:
+              - heading "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e383]:
+                - link "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [ref=e384] [cursor=pointer]:
+                  - /url: /puro-deporte/a-que-hora-es-el-atletico-de-madrid-vs-barcelona/25TMNJMBBBG3DHJ7PY4XAADBRA/story/
+              - separator [ref=e385]
+  - contentinfo [ref=e393]:
+    - generic [ref=e394]:
+      - generic [ref=e395]:
+        - generic [ref=e397]:
+          - link "Página de Facebook" [ref=e398] [cursor=pointer]:
+            - /url: https://www.facebook.com/lanacioncr/
+            - img [ref=e399]
+            - generic [ref=e401]: Página de Facebook
+          - link "Fuente Twitter" [ref=e402] [cursor=pointer]:
+            - /url: https://twitter.com/nacion
+            - img [ref=e403]
+            - generic [ref=e405]: Fuente Twitter
+          - link "Fuente RSS" [ref=e406] [cursor=pointer]:
+            - /url: https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml
+            - img [ref=e407]
+            - generic [ref=e409]: Fuente RSS
+        - paragraph [ref=e410]: © 2026 Todos los derechos reservados, cualquier uso requiere autorización expresa y por escrito de Grupo Nación GN S.A.
+      - generic [ref=e411]:
+        - generic [ref=e412]:
+          - heading "Sobre nosotros" [level=2] [ref=e413]
+          - list [ref=e414]:
+            - listitem [ref=e415]:
+              - link "Grupo Nación Opens in new window" [ref=e416] [cursor=pointer]:
+                - /url: https://www.nacion.com/gruponacion/
+                - text: Grupo Nación
+                - generic [ref=e417]: Opens in new window
+            - listitem [ref=e418]:
+              - link "La Teja Opens in new window" [ref=e419] [cursor=pointer]:
+                - /url: https://www.lateja.cr/
+                - text: La Teja
+                - generic [ref=e420]: Opens in new window
+            - listitem [ref=e421]:
+              - link "El Financiero Opens in new window" [ref=e422] [cursor=pointer]:
+                - /url: https://www.elfinancierocr.com/
+                - text: El Financiero
+                - generic [ref=e423]: Opens in new window
+            - listitem [ref=e424]:
+              - link "Revista Perfil Opens in new window" [ref=e425] [cursor=pointer]:
+                - /url: https://www.nacion.com/revista-perfil/
+                - text: Revista Perfil
+                - generic [ref=e426]: Opens in new window
+            - listitem [ref=e427]:
+              - link "Sabores Opens in new window" [ref=e428] [cursor=pointer]:
+                - /url: https://www.nacion.com/sabores/
+                - text: Sabores
+                - generic [ref=e429]: Opens in new window
+            - listitem [ref=e430]:
+              - link "Aplicaciones Opens in new window" [ref=e431] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/apps/landing/index.html
+                - text: Aplicaciones
+                - generic [ref=e432]: Opens in new window
+            - listitem [ref=e433]:
+              - link "Boletines Opens in new window" [ref=e434] [cursor=pointer]:
+                - /url: https://www.nacion.com/boletines/
+                - text: Boletines
+                - generic [ref=e435]: Opens in new window
+            - listitem [ref=e436]:
+              - link "Versión Impresa Opens in new window" [ref=e437] [cursor=pointer]:
+                - /url: https://lanacioncostarica.pressreader.com/
+                - text: Versión Impresa
+                - generic [ref=e438]: Opens in new window
+        - generic [ref=e439]:
+          - heading "Negocios" [level=2] [ref=e440]
+          - list [ref=e441]:
+            - listitem [ref=e442]:
+              - link "Todo Busco Opens in new window" [ref=e443] [cursor=pointer]:
+                - /url: https://www.nacion.com/todobusco/
+                - text: Todo Busco
+                - generic [ref=e444]: Opens in new window
+            - listitem [ref=e445]:
+              - link "Parque Viva Opens in new window" [ref=e446] [cursor=pointer]:
+                - /url: https://www.parqueviva.com/
+                - text: Parque Viva
+                - generic [ref=e447]: Opens in new window
+            - listitem [ref=e448]:
+              - link "Paute con nosotros Opens in new window" [ref=e449] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/comercial/VARIOS/TARIFARIO_LNCOMERCIAL_2025.pdf
+                - text: Paute con nosotros
+                - generic [ref=e450]: Opens in new window
+            - listitem [ref=e451]:
+              - link "Printea Opens in new window" [ref=e452] [cursor=pointer]:
+                - /url: https://printea.com/es/
+                - text: Printea
+                - generic [ref=e453]: Opens in new window
+        - generic [ref=e454]:
+          - heading "Términos y condiciones" [level=2] [ref=e455]
+          - list [ref=e456]:
+            - listitem [ref=e457]:
+              - link "Políticas de privacidad Opens in new window" [ref=e458] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/privacidad.html
+                - text: Políticas de privacidad
+                - generic [ref=e459]: Opens in new window
+            - listitem [ref=e460]:
+              - link "Condiciones de uso Opens in new window" [ref=e461] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/condiciones.html
+                - text: Condiciones de uso
+                - generic [ref=e462]: Opens in new window
+            - listitem [ref=e463]:
+              - link "Estados financieros Opens in new window" [ref=e464] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/estados-financieros.html
+                - text: Estados financieros
+                - generic [ref=e465]: Opens in new window
+            - listitem [ref=e466]:
+              - link "Reglamentos Opens in new window" [ref=e467] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/comercial/reglamentos/index.html
+                - text: Reglamentos
+                - generic [ref=e468]: Opens in new window
+        - generic [ref=e469]:
+          - heading "Servicio al cliente" [level=2] [ref=e470]
+          - list [ref=e471]:
+            - listitem [ref=e472]:
+              - link "Contáctenos Opens in new window" [ref=e473] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/contacto.html
+                - text: Contáctenos
+                - generic [ref=e474]: Opens in new window
+            - listitem [ref=e475]:
+              - link "Centro de ayuda Opens in new window" [ref=e476] [cursor=pointer]:
+                - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/centro_de_ayuda.html
+                - text: Centro de ayuda
+                - generic [ref=e477]: Opens in new window
+            - listitem [ref=e478]:
+              - link "Planes de suscripción Opens in new window" [ref=e479] [cursor=pointer]:
+                - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+                - text: Planes de suscripción
+                - generic [ref=e480]: Opens in new window
+      - figure [ref=e481]:
+        - img "La Nacion logo" [ref=e482]

@@ -1,0 +1,630 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - navigation "Menú de secciones" [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e8]:
+            - button [ref=e11] [cursor=pointer]:
+              - img [ref=e13]
+            - button "Secciones" [ref=e16] [cursor=pointer]:
+              - text: Secciones
+              - img [ref=e18]
+          - link "La Nacion logo" [ref=e21] [cursor=pointer]:
+            - /url: /
+            - img "La Nacion logo" [ref=e22]
+          - navigation "Mejores enlaces" [ref=e23]:
+            - link "Últimas noticias" [ref=e25] [cursor=pointer]:
+              - /url: /ultimas-noticias/
+            - link "Suscriptores" [ref=e27] [cursor=pointer]:
+              - /url: /mis-beneficios/
+            - link "El País" [ref=e29] [cursor=pointer]:
+              - /url: /el-pais/
+            - link "Política" [ref=e31] [cursor=pointer]:
+              - /url: /politica/
+            - link "Puro Deporte" [ref=e33] [cursor=pointer]:
+              - /url: /puro-deporte/
+            - link "Economía" [ref=e35] [cursor=pointer]:
+              - /url: /economia/
+            - link "Sucesos" [ref=e37] [cursor=pointer]:
+              - /url: /sucesos/
+            - link "El Explicador" [ref=e39] [cursor=pointer]:
+              - /url: /el-explicador/
+            - link "Opinión" [ref=e41] [cursor=pointer]:
+              - /url: /opinion/
+            - link "Viva" [ref=e43] [cursor=pointer]:
+              - /url: /viva/
+            - link "El Mundo" [ref=e45] [cursor=pointer]:
+              - /url: /el-mundo/
+          - button "Ingresar" [ref=e50]:
+            - img [ref=e51]
+            - generic [ref=e53]: Ingresar
+        - list [ref=e56]:
+          - listitem [ref=e57]:
+            - link "Últimas noticias" [ref=e58] [cursor=pointer]:
+              - /url: /ultimas-noticias/
+          - listitem [ref=e59]:
+            - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e60] [cursor=pointer]:
+              - /url: https://www.nacion.com/suscripcion-digital/
+              - text: Planes de suscripción
+              - generic [ref=e61]: (Se abre en una nueva ventana)
+          - listitem [ref=e62]:
+            - link "Boletines (Se abre en una nueva ventana)" [ref=e63] [cursor=pointer]:
+              - /url: https://www.nacion.com/boletines/
+              - text: Boletines
+              - generic [ref=e64]: (Se abre en una nueva ventana)
+          - listitem [ref=e65]:
+            - link "Suscriptores (Se abre en una nueva ventana)" [ref=e66] [cursor=pointer]:
+              - /url: https://www.nacion.com/mis-beneficios/
+              - text: Suscriptores
+              - generic [ref=e67]: (Se abre en una nueva ventana)
+          - listitem [ref=e68]:
+            - link "El País" [ref=e69] [cursor=pointer]:
+              - /url: /el-pais/
+          - listitem [ref=e70]:
+            - link "Política" [ref=e71] [cursor=pointer]:
+              - /url: /politica/
+          - listitem [ref=e72]:
+            - generic [ref=e73] [cursor=pointer]:
+              - link "Puro Deporte" [ref=e74]:
+                - /url: /puro-deporte/
+              - button "Mostrar Puro Deporte subsecciones" [ref=e75]:
+                - img [ref=e76]
+          - listitem [ref=e78]:
+            - link "El Explicador" [ref=e79] [cursor=pointer]:
+              - /url: /el-explicador/
+          - listitem [ref=e80]:
+            - generic [ref=e81] [cursor=pointer]:
+              - link "Viva" [ref=e82]:
+                - /url: /viva/
+              - button "Mostrar Viva subsecciones" [ref=e83]:
+                - img [ref=e84]
+          - listitem [ref=e86]:
+            - link "En confianza" [ref=e87] [cursor=pointer]:
+              - /url: /viva/en-confianza-videopodcast/
+          - listitem [ref=e88]:
+            - generic [ref=e89] [cursor=pointer]:
+              - link "Sucesos" [ref=e90]:
+                - /url: /sucesos/
+              - button "Mostrar Sucesos subsecciones" [expanded] [ref=e91]:
+                - img [ref=e92]
+            - list [ref=e95]:
+              - listitem [ref=e96]:
+                - link "Accidentes" [ref=e97] [cursor=pointer]:
+                  - /url: /sucesos/accidentes/
+              - listitem [ref=e98]:
+                - link "Crímenes" [ref=e99] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/
+              - listitem [ref=e100]:
+                - link "Narcotráfico" [ref=e101] [cursor=pointer]:
+                  - /url: /sucesos/narcotrafico/
+          - listitem [ref=e102]:
+            - link "Economía" [ref=e103] [cursor=pointer]:
+              - /url: /economia/
+          - listitem [ref=e104]:
+            - generic [ref=e105] [cursor=pointer]:
+              - link "Opinión" [ref=e106]:
+                - /url: /opinion/
+              - button "Mostrar Opinión subsecciones" [ref=e107]:
+                - img [ref=e108]
+          - listitem [ref=e110]:
+            - link "Por tanto" [ref=e111] [cursor=pointer]:
+              - /url: /blogs/por-tanto/
+          - listitem [ref=e112]:
+            - link "El Mundo" [ref=e113] [cursor=pointer]:
+              - /url: /el-mundo/
+          - listitem [ref=e114]:
+            - link "Mi Bienestar" [ref=e115] [cursor=pointer]:
+              - /url: /mi-bienestar/
+          - listitem [ref=e116]:
+            - link "Revista Dominical" [ref=e117] [cursor=pointer]:
+              - /url: /revista-dominical/
+          - listitem [ref=e118]:
+            - link "Spotlight" [ref=e119] [cursor=pointer]:
+              - /url: /spotlight/
+          - listitem [ref=e120]:
+            - link "Life Hacks" [ref=e121] [cursor=pointer]:
+              - /url: /life-hacks/
+          - listitem [ref=e122]:
+            - link "#NoComaCuento" [ref=e123] [cursor=pointer]:
+              - /url: /no-coma-cuento/
+          - listitem [ref=e124]:
+            - link "Áncora" [ref=e125] [cursor=pointer]:
+              - /url: /ancora/
+          - listitem [ref=e126]:
+            - link "Tecnología" [ref=e127] [cursor=pointer]:
+              - /url: /tecnologia/
+          - listitem [ref=e128]:
+            - generic [ref=e129] [cursor=pointer]:
+              - link "Ciencia" [ref=e130]:
+                - /url: /ciencia/
+              - button "Mostrar Ciencia subsecciones" [ref=e131]:
+                - img [ref=e132]
+          - listitem [ref=e134]:
+            - link "Podcasts" [ref=e135] [cursor=pointer]:
+              - /url: /podcast/
+          - listitem [ref=e136]:
+            - generic [ref=e137] [cursor=pointer]:
+              - link "Videos" [ref=e138]:
+                - /url: /videos/
+              - button "Mostrar Videos subsecciones" [ref=e139]:
+                - img [ref=e140]
+          - listitem [ref=e142]:
+            - generic [ref=e143] [cursor=pointer]:
+              - link "Brandvoice" [ref=e144]:
+                - /url: /brandvoice/
+              - button "Mostrar Brandvoice subsecciones" [ref=e145]:
+                - img [ref=e146]
+          - listitem [ref=e148]:
+            - generic [ref=e149] [cursor=pointer]:
+              - link "TodoBusco" [ref=e150]:
+                - /url: /todobusco/
+              - button "Mostrar TodoBusco subsecciones" [ref=e151]:
+                - img [ref=e152]
+          - listitem [ref=e154]:
+            - link "Edición Impresa (Se abre en una nueva ventana)" [ref=e155] [cursor=pointer]:
+              - /url: https://lanacioncostarica.pressreader.com/
+              - text: Edición Impresa
+              - generic [ref=e156]: (Se abre en una nueva ventana)
+          - listitem [ref=e157]:
+            - link "Pasatiempos (Se abre en una nueva ventana)" [ref=e158] [cursor=pointer]:
+              - /url: https://www.nacion.com/pasatiempos/
+              - text: Pasatiempos
+              - generic [ref=e159]: (Se abre en una nueva ventana)
+          - listitem [ref=e160]:
+            - generic [ref=e161] [cursor=pointer]:
+              - link "Revista Perfil" [ref=e162]:
+                - /url: /revista-perfil/
+              - button "Mostrar Revista Perfil subsecciones" [ref=e163]:
+                - img [ref=e164]
+          - listitem [ref=e166]:
+            - link "Sabores" [ref=e167] [cursor=pointer]:
+              - /url: /sabores/
+          - listitem [ref=e168]:
+            - link "Planes de suscripción (Se abre en una nueva ventana)" [ref=e169] [cursor=pointer]:
+              - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+              - text: Planes de suscripción
+              - generic [ref=e170]: (Se abre en una nueva ventana)
+          - listitem [ref=e171]:
+            - link "Blogs" [ref=e172] [cursor=pointer]:
+              - /url: /blogs/
+          - listitem [ref=e173]
+    - main [ref=e174]:
+      - generic [ref=e175]:
+        - generic [ref=e179]:
+          - text: Publicidad
+          - iframe [ref=e180]:
+            - insertion [ref=f15e3]:
+              - iframe [ref=f15e5]:
+                - generic [active] [ref=f32e1]:
+                  - generic [ref=f32e6]:
+                    - generic [ref=f32e8]:
+                      - generic [ref=f32e10]:
+                        - generic "pricesmart.com" [ref=f32e11]:
+                          - link "pricesmart.com" [ref=f32e12] [cursor=pointer]:
+                            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH0V_Xc3dabH2KrGSpeEPktH4wAnLtoyEhQG0hae20xTJ9PzfuBkQASCl97xnYL0BoAG5t6bLA8gBAagDAcgDwwSqBJECT9DwLtG9HsqFj-EPGjRMLIuHmwwLS5vVEtSLd4paZxU8cIdzKTI77-XR-K43blbUYiHunJi4KUZpsqNyIJ26QlGXs0fPAQ2JUYFGIy4DeyE4zdmCuYlZaAeHQSZmYfi-Ki7xV9oQ6hLcFWoCFxpErWYNBNCVpxHIBUcIKdjtCGQzJecXZrZ83HL6kg5vomrDqQyF0tgcMZp0Pgpyzk-LSUIdrEP-gYf-ngswFSEodoN2xbxkrOIss0NACKWFmw5K-Cszoblq_Hnrrwv5XK_lbcDUjHmeZT6hQJzEPO1pZsaI1eQg-iDD8j-SLItYM86U4504-qdKuj5CfuJVrHtzsF5s-568kNjueJxDa0IrNFhpwATxlZnQrwWIBcWHsIlVoAZmgAejmZF3qAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYieqL98rskwOxCX338TK5cGqigAoBmAsByAsBqg0CQ1LIDQHqDRMIzJ6M98rskwMVMUkpBh2SKB6Y8A0CiA4J2BMNiBQr0BUByhYCCgD4FgGAFwGyFxAYASoKNTk1NzE3NjI0OFAGuhcCOAGqGBcJAAAAAMAu9UASCjU5NTcxNzYyNDgYAbIYDwoEkeTkIxICt1EYZiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE&num=1&cid=CAQS0gEABaugfQolWxCSk28zfJJGFoDZp_UBxo229Q3W_agN8kjDyIQOl62mDm8-abgbTaUhtj9UF5w24zRtcJripSUk49OyUXqoNm08uLloACWeyGIYKUisx9xQPrOt3cr_qjvG_LPz-mlL2_Q2-PjzshwlmhZExfWNZYdaW-i0ELyiKy1pOUPACZelvL5xBEdDaZy6iOUyLGFuVdXQHlRdfXHAqe3Qzah34vUD22ABXQ7Og-p9YIu8213KVbv7xkcfUsRgGIgqK5a6USj5IyM8bSpluC4YAQ&sig=AOD64_0A7UT7VDLXjmsRgO_5xq9_jDIBpA&client=ca-pub-1877409655011573&rf=1&nb=1&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-location%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE
+                        - generic "pricesmart.com" [ref=f32e13]:
+                          - link "San Carlos ya casi abrimos" [ref=f32e14] [cursor=pointer]:
+                            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH0V_Xc3dabH2KrGSpeEPktH4wAnLtoyEhQG0hae20xTJ9PzfuBkQASCl97xnYL0BoAG5t6bLA8gBAagDAcgDwwSqBJECT9DwLtG9HsqFj-EPGjRMLIuHmwwLS5vVEtSLd4paZxU8cIdzKTI77-XR-K43blbUYiHunJi4KUZpsqNyIJ26QlGXs0fPAQ2JUYFGIy4DeyE4zdmCuYlZaAeHQSZmYfi-Ki7xV9oQ6hLcFWoCFxpErWYNBNCVpxHIBUcIKdjtCGQzJecXZrZ83HL6kg5vomrDqQyF0tgcMZp0Pgpyzk-LSUIdrEP-gYf-ngswFSEodoN2xbxkrOIss0NACKWFmw5K-Cszoblq_Hnrrwv5XK_lbcDUjHmeZT6hQJzEPO1pZsaI1eQg-iDD8j-SLItYM86U4504-qdKuj5CfuJVrHtzsF5s-568kNjueJxDa0IrNFhpwATxlZnQrwWIBcWHsIlVoAZmgAejmZF3qAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYieqL98rskwOxCX338TK5cGqigAoBmAsByAsBqg0CQ1LIDQHqDRMIzJ6M98rskwMVMUkpBh2SKB6Y8A0CiA4J2BMNiBQr0BUByhYCCgD4FgGAFwGyFxAYASoKNTk1NzE3NjI0OFAGuhcCOAGqGBcJAAAAAMAu9UASCjU5NTcxNzYyNDgYAbIYDwoEkeTkIxICt1EYZiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE&num=1&cid=CAQS0gEABaugfQolWxCSk28zfJJGFoDZp_UBxo229Q3W_agN8kjDyIQOl62mDm8-abgbTaUhtj9UF5w24zRtcJripSUk49OyUXqoNm08uLloACWeyGIYKUisx9xQPrOt3cr_qjvG_LPz-mlL2_Q2-PjzshwlmhZExfWNZYdaW-i0ELyiKy1pOUPACZelvL5xBEdDaZy6iOUyLGFuVdXQHlRdfXHAqe3Qzah34vUD22ABXQ7Og-p9YIu8213KVbv7xkcfUsRgGIgqK5a6USj5IyM8bSpluC4YAQ&sig=AOD64_0A7UT7VDLXjmsRgO_5xq9_jDIBpA&client=ca-pub-1877409655011573&rf=1&nb=0&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-location%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE
+                      - generic "pricesmart.com" [ref=f32e17]:
+                        - link "8 Clubes en Todo Costa Rica" [ref=f32e18] [cursor=pointer]:
+                          - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH0V_Xc3dabH2KrGSpeEPktH4wAnLtoyEhQG0hae20xTJ9PzfuBkQASCl97xnYL0BoAG5t6bLA8gBAagDAcgDwwSqBJECT9DwLtG9HsqFj-EPGjRMLIuHmwwLS5vVEtSLd4paZxU8cIdzKTI77-XR-K43blbUYiHunJi4KUZpsqNyIJ26QlGXs0fPAQ2JUYFGIy4DeyE4zdmCuYlZaAeHQSZmYfi-Ki7xV9oQ6hLcFWoCFxpErWYNBNCVpxHIBUcIKdjtCGQzJecXZrZ83HL6kg5vomrDqQyF0tgcMZp0Pgpyzk-LSUIdrEP-gYf-ngswFSEodoN2xbxkrOIss0NACKWFmw5K-Cszoblq_Hnrrwv5XK_lbcDUjHmeZT6hQJzEPO1pZsaI1eQg-iDD8j-SLItYM86U4504-qdKuj5CfuJVrHtzsF5s-568kNjueJxDa0IrNFhpwATxlZnQrwWIBcWHsIlVoAZmgAejmZF3qAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYieqL98rskwOxCX338TK5cGqigAoBmAsByAsBqg0CQ1LIDQHqDRMIzJ6M98rskwMVMUkpBh2SKB6Y8A0CiA4J2BMNiBQr0BUByhYCCgD4FgGAFwGyFxAYASoKNTk1NzE3NjI0OFAGuhcCOAGqGBcJAAAAAMAu9UASCjU5NTcxNzYyNDgYAbIYDwoEkeTkIxICt1EYZiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE&num=1&cid=CAQS0gEABaugfQolWxCSk28zfJJGFoDZp_UBxo229Q3W_agN8kjDyIQOl62mDm8-abgbTaUhtj9UF5w24zRtcJripSUk49OyUXqoNm08uLloACWeyGIYKUisx9xQPrOt3cr_qjvG_LPz-mlL2_Q2-PjzshwlmhZExfWNZYdaW-i0ELyiKy1pOUPACZelvL5xBEdDaZy6iOUyLGFuVdXQHlRdfXHAqe3Qzah34vUD22ABXQ7Og-p9YIu8213KVbv7xkcfUsRgGIgqK5a6USj5IyM8bSpluC4YAQ&sig=AOD64_0A7UT7VDLXjmsRgO_5xq9_jDIBpA&client=ca-pub-1877409655011573&rf=1&nb=0&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-location%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE
+                      - generic "pricesmart.com" [ref=f32e21]:
+                        - link "Unite a PriceSmart Costa Rica y descubrí un mundo de razones para adorar tu membrecía." [ref=f32e22] [cursor=pointer]:
+                          - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH0V_Xc3dabH2KrGSpeEPktH4wAnLtoyEhQG0hae20xTJ9PzfuBkQASCl97xnYL0BoAG5t6bLA8gBAagDAcgDwwSqBJECT9DwLtG9HsqFj-EPGjRMLIuHmwwLS5vVEtSLd4paZxU8cIdzKTI77-XR-K43blbUYiHunJi4KUZpsqNyIJ26QlGXs0fPAQ2JUYFGIy4DeyE4zdmCuYlZaAeHQSZmYfi-Ki7xV9oQ6hLcFWoCFxpErWYNBNCVpxHIBUcIKdjtCGQzJecXZrZ83HL6kg5vomrDqQyF0tgcMZp0Pgpyzk-LSUIdrEP-gYf-ngswFSEodoN2xbxkrOIss0NACKWFmw5K-Cszoblq_Hnrrwv5XK_lbcDUjHmeZT6hQJzEPO1pZsaI1eQg-iDD8j-SLItYM86U4504-qdKuj5CfuJVrHtzsF5s-568kNjueJxDa0IrNFhpwATxlZnQrwWIBcWHsIlVoAZmgAejmZF3qAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYieqL98rskwOxCX338TK5cGqigAoBmAsByAsBqg0CQ1LIDQHqDRMIzJ6M98rskwMVMUkpBh2SKB6Y8A0CiA4J2BMNiBQr0BUByhYCCgD4FgGAFwGyFxAYASoKNTk1NzE3NjI0OFAGuhcCOAGqGBcJAAAAAMAu9UASCjU5NTcxNzYyNDgYAbIYDwoEkeTkIxICt1EYZiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE&num=1&cid=CAQS0gEABaugfQolWxCSk28zfJJGFoDZp_UBxo229Q3W_agN8kjDyIQOl62mDm8-abgbTaUhtj9UF5w24zRtcJripSUk49OyUXqoNm08uLloACWeyGIYKUisx9xQPrOt3cr_qjvG_LPz-mlL2_Q2-PjzshwlmhZExfWNZYdaW-i0ELyiKy1pOUPACZelvL5xBEdDaZy6iOUyLGFuVdXQHlRdfXHAqe3Qzah34vUD22ABXQ7Og-p9YIu8213KVbv7xkcfUsRgGIgqK5a6USj5IyM8bSpluC4YAQ&sig=AOD64_0A7UT7VDLXjmsRgO_5xq9_jDIBpA&client=ca-pub-1877409655011573&rf=1&nb=7&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-location%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE
+                          - text: Unite a PriceSmart Costa Rica y descubrí un
+                          - text: mundo de razones para adorar tu membrecía.
+                    - link "ABRIR" [ref=f32e24] [cursor=pointer]:
+                      - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CH0V_Xc3dabH2KrGSpeEPktH4wAnLtoyEhQG0hae20xTJ9PzfuBkQASCl97xnYL0BoAG5t6bLA8gBAagDAcgDwwSqBJECT9DwLtG9HsqFj-EPGjRMLIuHmwwLS5vVEtSLd4paZxU8cIdzKTI77-XR-K43blbUYiHunJi4KUZpsqNyIJ26QlGXs0fPAQ2JUYFGIy4DeyE4zdmCuYlZaAeHQSZmYfi-Ki7xV9oQ6hLcFWoCFxpErWYNBNCVpxHIBUcIKdjtCGQzJecXZrZ83HL6kg5vomrDqQyF0tgcMZp0Pgpyzk-LSUIdrEP-gYf-ngswFSEodoN2xbxkrOIss0NACKWFmw5K-Cszoblq_Hnrrwv5XK_lbcDUjHmeZT6hQJzEPO1pZsaI1eQg-iDD8j-SLItYM86U4504-qdKuj5CfuJVrHtzsF5s-568kNjueJxDa0IrNFhpwATxlZnQrwWIBcWHsIlVoAZmgAejmZF3qAenzLECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpYieqL98rskwOxCX338TK5cGqigAoBmAsByAsBqg0CQ1LIDQHqDRMIzJ6M98rskwMVMUkpBh2SKB6Y8A0CiA4J2BMNiBQr0BUByhYCCgD4FgGAFwGyFxAYASoKNTk1NzE3NjI0OFAGuhcCOAGqGBcJAAAAAMAu9UASCjU5NTcxNzYyNDgYAbIYDwoEkeTkIxICt1EYZiIBANAYAegYAcIZAggB&ae=1&gclid=EAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE&num=1&cid=CAQS0gEABaugfQolWxCSk28zfJJGFoDZp_UBxo229Q3W_agN8kjDyIQOl62mDm8-abgbTaUhtj9UF5w24zRtcJripSUk49OyUXqoNm08uLloACWeyGIYKUisx9xQPrOt3cr_qjvG_LPz-mlL2_Q2-PjzshwlmhZExfWNZYdaW-i0ELyiKy1pOUPACZelvL5xBEdDaZy6iOUyLGFuVdXQHlRdfXHAqe3Qzah34vUD22ABXQ7Og-p9YIu8213KVbv7xkcfUsRgGIgqK5a6USj5IyM8bSpluC4YAQ&sig=AOD64_0A7UT7VDLXjmsRgO_5xq9_jDIBpA&client=ca-pub-1877409655011573&rf=1&nb=8&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-location%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI8ZiM98rskwMVMUkpBh2SKB6YEAEYASAAEgLuCvD_BwE
+                      - generic [ref=f32e26]:
+                        - generic: ABRIR
+                        - img [ref=f32e27]
+                  - img [ref=f32e33] [cursor=pointer]
+                  - button [ref=f32e35] [cursor=pointer]:
+                    - img [ref=f32e36]
+                  - iframe
+        - heading "Crímenes" [level=1] [ref=e184]
+      - generic [ref=e185]:
+        - generic [ref=e188]:
+          - generic [ref=e190]:
+            - article [ref=e191]:
+              - generic [ref=e192]:
+                - link [ref=e195] [cursor=pointer]:
+                  - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                  - img [ref=e196]
+                - generic [ref=e199]:
+                  - 'heading "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [level=3] [ref=e201]':
+                    - 'link "Subdirector de OIJ tras asesinatos registrados en cámaras: ‘Ya no se preocupan por esperar la noche’" [ref=e202] [cursor=pointer]':
+                      - /url: /sucesos/subdirector-de-oij-tras-asesinatos-registrados-en/TME27Y3QXZELLDWXGQ5CQTYDHY/story/
+                  - paragraph [ref=e203]: Policía Judicial reportó siete homicidios este fin de semana.
+                  - generic [ref=e204]:
+                    - generic [ref=e205]:
+                      - text: Por
+                      - link "Christian Montero" [ref=e207] [cursor=pointer]:
+                        - /url: /autores/christian-montero/
+                      - text: ●
+                    - time [ref=e208]: 13 de abril 2026, 05:05 p. m.
+            - separator [ref=e209]
+            - article [ref=e210]:
+              - generic [ref=e211]:
+                - link [ref=e214] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                  - img [ref=e215]
+                - generic [ref=e218]:
+                  - heading "Hombre de 34 años es asesinado a balazos en centro de San José" [level=3] [ref=e220]:
+                    - link "Hombre de 34 años es asesinado a balazos en centro de San José" [ref=e221] [cursor=pointer]:
+                      - /url: /sucesos/crimenes/hombre-de-34-anos-es-asesinado-a-balazos-en-centro/32JHN737ERD6TBV2DERETLLCCY/story/
+                  - paragraph [ref=e222]: Ataque armado en avenida 5 dejó un fallecido la tarde de este domingo. OIJ identificó a la víctima.
+                  - generic [ref=e223]:
+                    - generic [ref=e224]:
+                      - text: Por
+                      - link "Yucsiany Salazar" [ref=e226] [cursor=pointer]:
+                        - /url: /autores/yucsiany-salazar/
+                      - text: ●
+                    - time [ref=e227]: 13 de abril 2026, 09:53 a. m.
+            - separator [ref=e228]
+            - article [ref=e229]:
+              - generic [ref=e230]:
+                - link [ref=e233] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                  - img [ref=e234]
+                - generic [ref=e237]:
+                  - heading "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [level=3] [ref=e239]:
+                    - link "Gatilleros desde auto en movimiento matan a joven que caminaba por vía pública" [ref=e240] [cursor=pointer]:
+                      - /url: /sucesos/crimenes/gatilleros-desde-auto-en-movimiento-matan-a-joven/SITCWVKK55GMRD4PNKZ6H5BNFA/story/
+                  - paragraph [ref=e241]: Hechos ocurrieron la tarde de este viernes en Colima de Tibás
+                  - generic [ref=e242]:
+                    - generic [ref=e243]:
+                      - text: Por
+                      - link "Sebastián Sánchez" [ref=e245] [cursor=pointer]:
+                        - /url: /autores/sebastian-sanchez/
+                      - text: ●
+                    - time [ref=e246]: 10 de abril 2026, 08:25 p. m.
+            - separator [ref=e247]
+          - generic [ref=e251]:
+            - text: Publicidad
+            - iframe [ref=e252]:
+              - insertion [ref=f21e3]:
+                - iframe [ref=f21e5]:
+                  - generic [active] [ref=f33e1]:
+                    - generic [ref=f33e6]:
+                      - generic [ref=f33e8]:
+                        - generic [ref=f33e10]:
+                          - generic "pricesmart.com" [ref=f33e11]:
+                            - link "pricesmart.com" [ref=f33e12] [cursor=pointer]:
+                              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CcruJXc3daaLFK-feoPMP247GWMu2jISFAeyDp7bTFMn0_N-4GRABIKX3vGdgvQGgAbm3pssDyAEBqAMByAPDBKoEkQJP0PIj8n-cSnO5Qro1ZrPj65ikjqBODpvVrxhn9IwQt4XnZ011FktliTNQg32X7tfL8LZTUGp58UuLcNLjG7SSv_2pmHjq1d60ynvPiyOkp0xzcIQmvhkr14pqauxuCs9Syg-f7JFRKpM9aOp3bpBWOBUxIyFgUkbL-Px4ePBqklzEC2G-3WGom8iq35qbpyJRKpKp3xegQHEsf1hATriFIj_8NFQrTj_GuTsuQGzR9aAGzKS_06Z9nvd0sSW94c7C84BgIl4XjZmF8oTsO3HHX4R0uD5k44XBOQO1BTZxTX5n7c1qoBtJ7JFoB5MBsRr0A7gyF-5-tBG0l3sRXDctkZP-YYmzPNIIOdAXE5eCg4vABKmUmdCvBYgFxYewiVWgBmaAB6OZkXeoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5rhsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljhsYz3yuyTA7EJfffxMrlwaqKACgGYCwHICwGqDQJDUsgNAeoNEwiJ7Iz3yuyTAxVnL2gIHVuHEQvwDQKIDgnYEw2IFCjQFQHKFgIKAPgWAYAXAbIXEBgBKgo1OTU3MTc2MjQ4UAa6FwI4AaoYFwkAAAAAwC71QBIKNTk1NzE3NjI0OBgBshgPCgSR5OQjEgK3URhmIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE&num=1&cid=CAQS0QEABaugfVFFbYaOMHis0lmxPxepfiLHaTh8U_T7vUUQkDmM1nD_lnST8jedy4zrkhw9FecxijZKE0UCTlHrQVG42wPDDMzBbQ3yQ1mS6_40xH7AQZAzy91Z3uRjesV2TJV4EGyeqfJiuvn4qCugHZ0IzVkf5PDNYpMn-AdtPBY49qsZrvPF6nFlfwgPuGYAtnYRULf4IeM9fPOLAqQnYubh4R47Szspuqgu5xYPKDoUOsoxDinW2WsH1-rPnIp0BrTONemqEnawUSe2odOUjSvNkBgB&sig=AOD64_2ssQM3JxVVFyE5OW98-IDHc6LU1A&client=ca-pub-1877409655011573&rf=1&nb=1&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-online%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE
+                          - generic "pricesmart.com" [ref=f33e13]:
+                            - link "Unite a PriceSmart Costa Rica" [ref=f33e14] [cursor=pointer]:
+                              - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CcruJXc3daaLFK-feoPMP247GWMu2jISFAeyDp7bTFMn0_N-4GRABIKX3vGdgvQGgAbm3pssDyAEBqAMByAPDBKoEkQJP0PIj8n-cSnO5Qro1ZrPj65ikjqBODpvVrxhn9IwQt4XnZ011FktliTNQg32X7tfL8LZTUGp58UuLcNLjG7SSv_2pmHjq1d60ynvPiyOkp0xzcIQmvhkr14pqauxuCs9Syg-f7JFRKpM9aOp3bpBWOBUxIyFgUkbL-Px4ePBqklzEC2G-3WGom8iq35qbpyJRKpKp3xegQHEsf1hATriFIj_8NFQrTj_GuTsuQGzR9aAGzKS_06Z9nvd0sSW94c7C84BgIl4XjZmF8oTsO3HHX4R0uD5k44XBOQO1BTZxTX5n7c1qoBtJ7JFoB5MBsRr0A7gyF-5-tBG0l3sRXDctkZP-YYmzPNIIOdAXE5eCg4vABKmUmdCvBYgFxYewiVWgBmaAB6OZkXeoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5rhsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljhsYz3yuyTA7EJfffxMrlwaqKACgGYCwHICwGqDQJDUsgNAeoNEwiJ7Iz3yuyTAxVnL2gIHVuHEQvwDQKIDgnYEw2IFCjQFQHKFgIKAPgWAYAXAbIXEBgBKgo1OTU3MTc2MjQ4UAa6FwI4AaoYFwkAAAAAwC71QBIKNTk1NzE3NjI0OBgBshgPCgSR5OQjEgK3URhmIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE&num=1&cid=CAQS0QEABaugfVFFbYaOMHis0lmxPxepfiLHaTh8U_T7vUUQkDmM1nD_lnST8jedy4zrkhw9FecxijZKE0UCTlHrQVG42wPDDMzBbQ3yQ1mS6_40xH7AQZAzy91Z3uRjesV2TJV4EGyeqfJiuvn4qCugHZ0IzVkf5PDNYpMn-AdtPBY49qsZrvPF6nFlfwgPuGYAtnYRULf4IeM9fPOLAqQnYubh4R47Szspuqgu5xYPKDoUOsoxDinW2WsH1-rPnIp0BrTONemqEnawUSe2odOUjSvNkBgB&sig=AOD64_2ssQM3JxVVFyE5OW98-IDHc6LU1A&client=ca-pub-1877409655011573&rf=1&nb=0&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-online%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE
+                        - generic "pricesmart.com" [ref=f33e17]:
+                          - link "Únete a PriceSmart" [ref=f33e18] [cursor=pointer]:
+                            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CcruJXc3daaLFK-feoPMP247GWMu2jISFAeyDp7bTFMn0_N-4GRABIKX3vGdgvQGgAbm3pssDyAEBqAMByAPDBKoEkQJP0PIj8n-cSnO5Qro1ZrPj65ikjqBODpvVrxhn9IwQt4XnZ011FktliTNQg32X7tfL8LZTUGp58UuLcNLjG7SSv_2pmHjq1d60ynvPiyOkp0xzcIQmvhkr14pqauxuCs9Syg-f7JFRKpM9aOp3bpBWOBUxIyFgUkbL-Px4ePBqklzEC2G-3WGom8iq35qbpyJRKpKp3xegQHEsf1hATriFIj_8NFQrTj_GuTsuQGzR9aAGzKS_06Z9nvd0sSW94c7C84BgIl4XjZmF8oTsO3HHX4R0uD5k44XBOQO1BTZxTX5n7c1qoBtJ7JFoB5MBsRr0A7gyF-5-tBG0l3sRXDctkZP-YYmzPNIIOdAXE5eCg4vABKmUmdCvBYgFxYewiVWgBmaAB6OZkXeoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5rhsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljhsYz3yuyTA7EJfffxMrlwaqKACgGYCwHICwGqDQJDUsgNAeoNEwiJ7Iz3yuyTAxVnL2gIHVuHEQvwDQKIDgnYEw2IFCjQFQHKFgIKAPgWAYAXAbIXEBgBKgo1OTU3MTc2MjQ4UAa6FwI4AaoYFwkAAAAAwC71QBIKNTk1NzE3NjI0OBgBshgPCgSR5OQjEgK3URhmIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE&num=1&cid=CAQS0QEABaugfVFFbYaOMHis0lmxPxepfiLHaTh8U_T7vUUQkDmM1nD_lnST8jedy4zrkhw9FecxijZKE0UCTlHrQVG42wPDDMzBbQ3yQ1mS6_40xH7AQZAzy91Z3uRjesV2TJV4EGyeqfJiuvn4qCugHZ0IzVkf5PDNYpMn-AdtPBY49qsZrvPF6nFlfwgPuGYAtnYRULf4IeM9fPOLAqQnYubh4R47Szspuqgu5xYPKDoUOsoxDinW2WsH1-rPnIp0BrTONemqEnawUSe2odOUjSvNkBgB&sig=AOD64_2ssQM3JxVVFyE5OW98-IDHc6LU1A&client=ca-pub-1877409655011573&rf=1&nb=0&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-online%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE
+                        - generic "pricesmart.com" [ref=f33e21]:
+                          - link "Unite a PriceSmart Costa Rica y descubrí un mundo de razones para adorar tu membrecía." [ref=f33e22] [cursor=pointer]:
+                            - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CcruJXc3daaLFK-feoPMP247GWMu2jISFAeyDp7bTFMn0_N-4GRABIKX3vGdgvQGgAbm3pssDyAEBqAMByAPDBKoEkQJP0PIj8n-cSnO5Qro1ZrPj65ikjqBODpvVrxhn9IwQt4XnZ011FktliTNQg32X7tfL8LZTUGp58UuLcNLjG7SSv_2pmHjq1d60ynvPiyOkp0xzcIQmvhkr14pqauxuCs9Syg-f7JFRKpM9aOp3bpBWOBUxIyFgUkbL-Px4ePBqklzEC2G-3WGom8iq35qbpyJRKpKp3xegQHEsf1hATriFIj_8NFQrTj_GuTsuQGzR9aAGzKS_06Z9nvd0sSW94c7C84BgIl4XjZmF8oTsO3HHX4R0uD5k44XBOQO1BTZxTX5n7c1qoBtJ7JFoB5MBsRr0A7gyF-5-tBG0l3sRXDctkZP-YYmzPNIIOdAXE5eCg4vABKmUmdCvBYgFxYewiVWgBmaAB6OZkXeoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5rhsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljhsYz3yuyTA7EJfffxMrlwaqKACgGYCwHICwGqDQJDUsgNAeoNEwiJ7Iz3yuyTAxVnL2gIHVuHEQvwDQKIDgnYEw2IFCjQFQHKFgIKAPgWAYAXAbIXEBgBKgo1OTU3MTc2MjQ4UAa6FwI4AaoYFwkAAAAAwC71QBIKNTk1NzE3NjI0OBgBshgPCgSR5OQjEgK3URhmIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE&num=1&cid=CAQS0QEABaugfVFFbYaOMHis0lmxPxepfiLHaTh8U_T7vUUQkDmM1nD_lnST8jedy4zrkhw9FecxijZKE0UCTlHrQVG42wPDDMzBbQ3yQ1mS6_40xH7AQZAzy91Z3uRjesV2TJV4EGyeqfJiuvn4qCugHZ0IzVkf5PDNYpMn-AdtPBY49qsZrvPF6nFlfwgPuGYAtnYRULf4IeM9fPOLAqQnYubh4R47Szspuqgu5xYPKDoUOsoxDinW2WsH1-rPnIp0BrTONemqEnawUSe2odOUjSvNkBgB&sig=AOD64_2ssQM3JxVVFyE5OW98-IDHc6LU1A&client=ca-pub-1877409655011573&rf=1&nb=7&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-online%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE
+                            - text: Unite a PriceSmart Costa Rica y descubrí un
+                            - text: mundo de razones para adorar tu membrecía.
+                      - link "ABRIR" [ref=f33e24] [cursor=pointer]:
+                        - /url: https://googleads.g.doubleclick.net/aclk?sa=l&ai=CcruJXc3daaLFK-feoPMP247GWMu2jISFAeyDp7bTFMn0_N-4GRABIKX3vGdgvQGgAbm3pssDyAEBqAMByAPDBKoEkQJP0PIj8n-cSnO5Qro1ZrPj65ikjqBODpvVrxhn9IwQt4XnZ011FktliTNQg32X7tfL8LZTUGp58UuLcNLjG7SSv_2pmHjq1d60ynvPiyOkp0xzcIQmvhkr14pqauxuCs9Syg-f7JFRKpM9aOp3bpBWOBUxIyFgUkbL-Px4ePBqklzEC2G-3WGom8iq35qbpyJRKpKp3xegQHEsf1hATriFIj_8NFQrTj_GuTsuQGzR9aAGzKS_06Z9nvd0sSW94c7C84BgIl4XjZmF8oTsO3HHX4R0uD5k44XBOQO1BTZxTX5n7c1qoBtJ7JFoB5MBsRr0A7gyF-5-tBG0l3sRXDctkZP-YYmzPNIIOdAXE5eCg4vABKmUmdCvBYgFxYewiVWgBmaAB6OZkXeoB6fMsQKoB6a-G6gHzM6xAqgH89EbqAeW2BuoB6qbsQKoB47OG6gHk9gbqAfw4BuoB-6WsQKoB_6esQKoB6--sQKoB5rhsQKoB9XJG6gH2baxAqgHmgaoB_-esQKoB9-fsQKoB_jCsQKoB_vCsQLYBwHSCC8IgGEQARifAzIIioKAgICAgAg6DYBAgMCAgICAqIACqANIvf3BOljhsYz3yuyTA7EJfffxMrlwaqKACgGYCwHICwGqDQJDUsgNAeoNEwiJ7Iz3yuyTAxVnL2gIHVuHEQvwDQKIDgnYEw2IFCjQFQHKFgIKAPgWAYAXAbIXEBgBKgo1OTU3MTc2MjQ4UAa6FwI4AaoYFwkAAAAAwC71QBIKNTk1NzE3NjI0OBgBshgPCgSR5OQjEgK3URhmIgEA0BgB6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE&num=1&cid=CAQS0QEABaugfVFFbYaOMHis0lmxPxepfiLHaTh8U_T7vUUQkDmM1nD_lnST8jedy4zrkhw9FecxijZKE0UCTlHrQVG42wPDDMzBbQ3yQ1mS6_40xH7AQZAzy91Z3uRjesV2TJV4EGyeqfJiuvn4qCugHZ0IzVkf5PDNYpMn-AdtPBY49qsZrvPF6nFlfwgPuGYAtnYRULf4IeM9fPOLAqQnYubh4R47Szspuqgu5xYPKDoUOsoxDinW2WsH1-rPnIp0BrTONemqEnawUSe2odOUjSvNkBgB&sig=AOD64_2ssQM3JxVVFyE5OW98-IDHc6LU1A&client=ca-pub-1877409655011573&rf=1&nb=8&adurl=https://www.pricesmart.com/es-cr/membrecia/info%3Futm_content%3Dsuper-online%26utm_creative_format%3Dmem_gen%26gad_source%3D5%26gad_campaignid%3D22836675525%26gclid%3DEAIaIQobChMI4ueM98rskwMVZy9oCB1bhxELEAEYASAAEgLLdPD_BwE
+                        - generic [ref=f33e26]:
+                          - generic: ABRIR
+                          - img [ref=f33e27]
+                    - img [ref=f33e33] [cursor=pointer]
+                    - button [ref=f33e35] [cursor=pointer]:
+                      - img [ref=f33e36]
+                    - iframe
+          - generic [ref=e253]:
+            - generic [ref=e254]:
+              - link [ref=e256] [cursor=pointer]:
+                - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                - img [ref=e257]
+              - 'link "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [ref=e260] [cursor=pointer]':
+                - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                - 'heading "Así avanza la investigación por la muerte de Junieysis Merlo: OIJ da nuevos detalles" [level=3] [ref=e261]'
+              - generic [ref=e262]:
+                - link "En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido." [ref=e264] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/asi-avanza-la-investigacion-por-la-muerte-de/C25IA627JZDWPE7ZDHTKYWLEFQ/story/
+                  - paragraph [ref=e265]: En la investigación por la muerte de Junieysis Merlo, el OIJ revela causa de muerte, hallazgos clave y refuerza hipótesis contra sospechoso detenido.
+                - generic [ref=e266]:
+                  - generic [ref=e267]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e269] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e270]: 10 de abril 2026, 01:37 p. m.
+            - generic [ref=e271]:
+              - link [ref=e273] [cursor=pointer]:
+                - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                - img [ref=e274]
+              - link "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [ref=e277] [cursor=pointer]:
+                - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                - heading "OIJ confirma causa de muerte de Junieysis Merlo, hallada en una fosa en Santa Ana" [level=3] [ref=e278]
+              - generic [ref=e279]:
+                - link "OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa" [ref=e281] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/esta-es-la-causa-de-muerte-de-junieysis-merlo/HM2TNMUD7RGEVHIE43MXTIUX4E/story/
+                  - paragraph [ref=e282]: OIJ revela la causa de muerte de Junieysis Merlo, cuyo cuerpo fue encontrado dentro de una fosa
+                - generic [ref=e283]:
+                  - generic [ref=e284]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e286] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e287]: 10 de abril 2026, 10:29 a. m.
+            - generic [ref=e288]:
+              - link [ref=e290] [cursor=pointer]:
+                - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                - img [ref=e291]
+              - link "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [ref=e294] [cursor=pointer]:
+                - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                - heading "Hombre muere al llegar al hospital tras ataque a balazos frente a su casa en Cartago" [level=3] [ref=e295]
+              - generic [ref=e296]:
+                - link "El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba" [ref=e298] [cursor=pointer]:
+                  - /url: /sucesos/hombre-muere-al-llegar-al-hospital-tras-ataque-a/DROJOWSFZBHWDEAQWWFERM2U7E/story/
+                  - paragraph [ref=e299]: El hombre, de 30 años y sin antecedentes judiciales, fue atacado frente a su vivienda en Cartago, cuando salió para ver quien lo llamaba
+                - generic [ref=e300]:
+                  - generic [ref=e301]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e303] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e304]: 10 de abril 2026, 07:52 a. m.
+            - generic [ref=e305]:
+              - link [ref=e307] [cursor=pointer]:
+                - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                - img [ref=e308]
+              - link "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [ref=e311] [cursor=pointer]:
+                - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                - heading "Asesinan a joven de 25 años con un disparo en la cabeza en Naranjo" [level=3] [ref=e312]
+              - generic [ref=e313]:
+                - link "El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026." [ref=e315] [cursor=pointer]:
+                  - /url: /sucesos/asesinan-a-hombre-de-disparo-en-la-cabeza-en/WAGRRRNPJRD4FPKPEDBX6DMAEI/story/
+                  - paragraph [ref=e316]: El joven estaba en un parqueo de un local cuando fue agredido y luego recibió el disparo. Alajuela registra 23 homicidios en el 2026.
+                - generic [ref=e317]:
+                  - generic [ref=e318]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e320] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e321]: 10 de abril 2026, 06:33 a. m.
+            - generic [ref=e322]:
+              - link [ref=e324] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                - img [ref=e325]
+              - link "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [ref=e328] [cursor=pointer]:
+                - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                - heading "Hallan cuerpo calcinado a la orilla de una vía en zona bananera de Limón" [level=3] [ref=e329]
+              - generic [ref=e330]:
+                - link "OIJ permanece en el sitio, en Matina de Limón" [ref=e332] [cursor=pointer]:
+                  - /url: /sucesos/crimenes/hallan-cuerpo-calcinado-a-la-orilla-de-una-via-en/T3XGCNEVABFCXE73IQA7MCF4ZA/story/
+                  - paragraph [ref=e333]: OIJ permanece en el sitio, en Matina de Limón
+                - generic [ref=e334]:
+                  - generic [ref=e335]:
+                    - text: Por
+                    - link "Yucsiany Salazar" [ref=e337] [cursor=pointer]:
+                      - /url: /autores/yucsiany-salazar/
+                    - text: ●
+                  - time [ref=e338]: 09 de abril 2026, 08:11 p. m.
+            - button "Ver más historias sobre este tema" [ref=e340]: Ver más
+        - complementary [ref=e341]:
+          - generic [ref=e345]:
+            - text: Publicidad
+            - iframe [ref=e346]:
+              - insertion [ref=f34e3]:
+                - iframe [ref=f34e5]:
+                  - generic [ref=f38e2]:
+                    - link "Advertisement" [ref=f38e4] [cursor=pointer]:
+                      - /url: https://ad.doubleclick.net/pcs/click?xai=AKAOjstRjAown1AQKJ5RFn3v49eMM1rBmhofR7RMNzu3gDtJ9DF7mykrX3rrgKYG-VA8tnnQ0frw9cAzJL_nO4tKWnUj5iypw_g0XWfGHh9jr-JEf7dioGjsVGxBvMfE3U6s5EAsYteDsupsZulyXHcBLjzwN486wt9j4P0VimzvA4CzhCElBq9ffT6Cwkrytt218TzS1Uho9ffzQRcs7Wyqh8_-sKfSMr8d6G28_MbWRZz9sL0EmzpWNFcGsS_xDMjDdC3qmBeSNHWhLbN9AFv57W9QEb3Zda7GAgxp8qd5hiEJruHzOdrB9NNAsvctYvlwWdK86Qmyx3i234Rv1AlnoNafOJbAp5Iz5cgO2AHsXn-d3lO8QY_DLAwJtpSfXa6sl9H8zArxNOfwiOTkQLvXjLhTCKD-7JPWvNAwkaTdKggxJoYedaWVJvxUNfDKbPtDM-HU0GtlGaddTAz6zOK7CnW3uwZIaZYlX-2potnu8MTQspf_dNqBrokLJgoY1yWpchQIXY1aj1M50LEOErdWTfBm7uE2E30NOEJuhX7ZwfnfAzleXrkohamlXSk8W2Iw540upCcaVJCzCj1FnxBrRLRO-tr5LrtD6fHNVv3l4bZr_k2dwnP9fbPndkVFgTdggrqQ7i0B7pumgvON37CGEnFZsuMF1en7FU9XknbGnwgh4CldvNbhsT9zjy7lpxs7RJNHHP09QTixMSxpybPeW8lTMXpXRyn6yjgLBFpwutW_3pogty6pKOP12QRIwVSuysBp2AdeV3F-MDdt8X0M4OoEnxNU6SU1Bj-qt6rk-1mMMsu2lSHP5O95WREfVbR0wfFfj28sUQiAaCNRRlyZTfpx3BeKcv2DTNhE4hX_EmFO4k3D3knq4P9Jmb1v-2UfxT8fFiLgs5HCxYY6F-AZaAN8AscnRQBar3rYk_oPwzkg2X8X7a3v9JUrnmPuttiha8YL__OrN-_cJd_NaMycuSQM9HEMWU8RskFsIZZPHMpCa7ZFy5gshxkLDclXrshxi9JzM0cJFihAppzWuvMmp4mDWC6QHwLqiZJsMoopXzgfRzzplarGhK9J7WufutlfPBxpEUU9uKx9r5URGSe_7HfGOd_XI5wYL_9r0kHS20cYEjpGQwNC0TUNov3OxZGXoJug-9sdDg9DYqUAGFXNYIp2TSi3MBR-7px5XjYe3Tpr_4EUXK0wkr16WgajGvp7bd4jJP1k940u_5OrdCl24yzgpCTl5skms9cXxbB-GK38qoozbGh_EzaRz8HGu8qgEohPTXm_jRmMHgKdi7oNJlSGLiUY3sERxDlPQYtfNat-wTaS1bpTv9R-ZJUmR7_VGolKb29ayoXdGDkHR2MdPdUmgEg_TPMXNX354LT6Hag-y--9whsZdQBoYGoel6ar42Vjz1cI87Cm3SaY0_D-itIrREGT3mnO-J0o1k9ouNSBOYRbF9KUZFr8Twqa6dAYDEIyyg_Wp1Z44fULG7hV_GfhO0UfXnb2P_As03o4cPk9R0pc-lRepMWQVF7mW81oFKyeN93kJeG9jrbThe2vaz4-GbxleAfjff698VtDcXy1PZDVKzhtDQdAv5kRhaJ4jfJktOulB-OReXVFUaV297tSwfTRV_QM5UDIk4UySn5JmZ36-wXkHYhFK7ru4nSMaNPQjD_Htl-99lxH9wkLnPoRtEcmZ0SGv20C7OJv66ajW4yg9qxefao5XQc2D3XxwtG-1aQ4bhSA4Pbn4nA4-nNwTXEDUfPwMdFtDKnxzPa2b1ZFbprufctw1CSpvZhR4q0cT7riCjbrpAE345WcCZjIwNcLpvhJq_I2KnOmxgqSLRwG5pon6EbK_KvJiCbStc4t1GG5AyEgxtPrQruVdIZn0kfNkz_is6XBDX35Y7JWtNaUMvhrKQRXyjt2lcbG6ubwOnzIGLjNcHzpEwwwpbvoOHuN2xDNcbp4Q4owSKsJMVfb_JsYx9_BETFGgDXbrxseK8H1K5c4dLhp_akWLXN8qwlrjX2CRuYyi8Zfr3y7UTd9dqK1EPOUz2lr2PJiWSmaJEUoC9fDrTIuqa2M3494EBDoMIZSv2U3LNPjwTXApbtYlIMiYfZGcjPVq54q7xCShMitkogqH8XRAOly4_R5m-Ol5sXzGjlgbSJbmxfNH88wkTir4Y3Lfw&sai=AMfl-YS17E2f3gwauU5sh2bIP-p9qlNLLFqZMRV_ZPeUT69TtdaZaHTPyUqcN2e21NpIBRzGMURD581-1LmmoOb3gG7YWncLm6PJXM6-iqiPsjrPe7I7NRBJ0qMSchd1Fgi2_JqC0h5Shog1RwbM5y6oUA1XhyAhoXzkKxUx37NqwfCGsom-U0eA2KPY2u_sV0pNAdRTJThJlXKxnxoxMQqiop1Ean5L3OupZouvChKt7tE-r-1LeDRJb-wPsEA5EG3p4VAmSfYE_VJz5lTGbfiUIdthna-vKAxnuaN0B7R2NiDmUwWkmWEcLIoIy61JQ79uQAGvxUUc_ktlB3VMAFtpZd1Kz1LW8i0qQ8kctZSylY5p3L7CRKx3J-B4Fm_F0_vzo3uHm6phfvbViDldstBKQZM0BCDXqyV4_ShlY3FZnnykqNJdkPvoI-4a5ve7JB8NSKvvdqDBjjsMGWM1koDzz1fu7GoVF9nggLqW4E3jD8NL3sobg_gtnVIT4MbutVU3qHDtzaSYMCCajzzJ0D4VyIorAzwf72DZGcG_iEsQNBzLc00yCEH3Hq2Ziucz0wx7EUXqhDSSIiiteUTcyQX5XCuiQIJAHLl4Se7UA1jaKbbrEEmVFfFH34ibu1hd2ln5Fl206tRlCFr_FiD5L3YaE8Nxj9YNBYqmznVJPnJ9JIv_JEaSB4fpjB1AIxs2s1RHlU-oFWkrLyF8tdG18R0gYvVPGbb9oe7PmpqW7J1ScgA8HWKWW1xAKcLYUSSPz90P42jTQw&sig=Cg0ArKJSzLX9pQXaWCuk&fbs_aeid=%5Bgw_fbsaeid%5D&crd=aHR0cHM6Ly9ldzMuaW8&urlfix=1&adurl=https://ew3.io/c/a/barcelo-com/%3Fead-publisher%3D6036761%26ead-name%3D6036761-32199205%26ead-location%3D6036761-399292061%26ead-creative%3D219185217%26ead-creativetype%3D1x1%26eurl%3Dhttps://www.barcelo.com/es-cr/ofertas/vacaciones/%26utm_id%3D399292061_219185217%26utm_campaign%3Dcam_es_pgm_bm_bhg_barceloplus2024-dci-lat-cr-puntaarenas-playatambor-x_co%26utm_medium%3Dpgm%26utm_source%3Ddv360%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D21452231188
+                      - img "Advertisement" [ref=f38e5]
+                    - generic [ref=f38e6]:
+                      - generic:
+                        - img [ref=f38e10] [cursor=pointer]
+                        - button [ref=f38e12] [cursor=pointer]:
+                          - img [ref=f38e13]
+          - generic [ref=e348]:
+            - heading "ÚLTIMAS NOTICIAS" [level=2] [ref=e349]
+            - generic [ref=e351]:
+              - article [ref=e352]:
+                - heading "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [level=3] [ref=e357]:
+                  - link "Murió Felipe Staiti, guitarrista y fundador de Enanitos Verdes" [ref=e358] [cursor=pointer]:
+                    - /url: /viva/murio-felipe-staiti-guitarrista-y-fundador-de/AVFCCHEVW5HM5KEQ3V5LUBLPAI/story/
+                - separator [ref=e359]
+              - article [ref=e360]:
+                - heading "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [level=3] [ref=e365]:
+                  - link "Presentadores de ‘Giros’ de Repretel ‘perdieron el control’ en el programa y todo quedó grabado en video" [ref=e366] [cursor=pointer]:
+                    - /url: /viva/presentadores-de-giros-de-repretel-perdieron-el/NUSAHU34AZAD7K454HJVWJDVQU/story/
+                - separator [ref=e367]
+              - article [ref=e368]:
+                - heading "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [level=3] [ref=e373]:
+                  - link "Tapón no se guardó nada y fue tajante sobre lo que pasó en su concierto en ‘Transitarte’" [ref=e374] [cursor=pointer]:
+                    - /url: /viva/tapon-no-se-guardo-nada-y-fue-tajante-sobre-lo-que/UPYR5NIN4BEWLEJWUSIQRTMSMI/story/
+                - separator [ref=e375]
+              - article [ref=e376]:
+                - heading "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e381]:
+                  - link "¿A qué hora es el PSG vs. Liverpool por la Champions League 2026 en Costa Rica y otros países?" [ref=e382] [cursor=pointer]:
+                    - /url: /puro-deporte/a-que-hora-es-el-psg-vs-liverpool-por-la-champions/ODCFYD347FGAZCENY2PPI5FJIU/story/
+                - separator [ref=e383]
+              - article [ref=e384]:
+                - heading "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [level=3] [ref=e389]:
+                  - link "¿A qué hora es el Atlético de Madrid vs. Barcelona por la Champions League 2026 en Costa Rica y otros países?" [ref=e390] [cursor=pointer]:
+                    - /url: /puro-deporte/a-que-hora-es-el-atletico-de-madrid-vs-barcelona/25TMNJMBBBG3DHJ7PY4XAADBRA/story/
+                - separator [ref=e391]
+          - generic [ref=e392]:
+            - generic [ref=e396]:
+              - text: Publicidad
+              - iframe [ref=e397]:
+                - insertion [ref=f14e3]:
+                  - iframe [ref=f14e5]:
+                    - generic [active] [ref=f30e1]:
+                      - generic [ref=f30e5]:
+                        - link [ref=f30e6] [cursor=pointer]:
+                          - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=Cl7XfXc3dabimKuqeoPMPgpOtwQ2k5LShhgH5qoPcuw_rwpPKiw4QASCl97xnYL0BoAHR98DTA8gBCagDAcgDywSqBIICT9AWACF38l9dRbY-24x_z7Kb8K2SglzuKwsY0B7kF6XcSmhQfj7XWfFbVlQUNt543p8Dz-nd0PLs-77dXQPOnjGdig4u72aKN1Q3rYcaNeYxCZRxxVZwO1Qzz1i75GZtvMrDTjjv3iYohofGkntPDctiqZSnPxctxWBLgLT8I_YAiJbPLAY444zNRsSTS1dkLesHj6DbTKrb2rJw1SQh-P9oF_Y9zRneVaHWP-DAP0LsmZMG7uNCs68myDVPWpA9sflJScfgNY9akg56VlZPdeGY82QXvrKk4oQQZTx3ZEMR_AoL9lQ6k5zcIhXrR9_kQ-UEtiZGRtBRXIp32KEpAdS4wASNhqzClgGIBd_AmPUCoAYugAeXiL8sqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY0Y6L98rskwOxCQT5HSlq7pREgAoBmAsByAsBgAwBogwDkAEBqg0CQ1LIDQHqDRMIuc-L98rskwMVag9oCB2CSSvY8A0CiA4JohNUCjcIA0ABUggKBhIECAEQAWiym5n5RXIhEh8gAigBOAJA38CY9QJYAWj-__________8BgAEBmAEDGhkKF2NhLXB1Yi0xODc3NDA5NjU1MDExNTczuBPkA9gTDYgUBNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjk4MDMyNjk1MjhQBqoYFwkAAAAAIJTzQBIKOTgwMzI2OTUyOBgBshgJEgKgTxguIgEA6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE&num=1&cid=CAQS0QEABaugfc04p9By4YvQ_GzAMl23Th1jqfkZ4fDgv1mEW2tFHwhLxUd6ae6ATehEJvv11ZYJRfAH29IadXdQDfwA85Z88xTrqVsDHEFr-9e6gtANE14IPkuon3c9hEG9BnM55Ka3e1c6JN88RG5OKcrV8T9gQ45iYRsGLNwudkG_yX7SrpG_ZBcOUqXtziCLfIuEmSUojbnCwIkM9eurpmd-LBKx7fqgHgE65DPWzdu5wC58rRcHvt95rho0ctKAHfiaYY5KlqS2pOkhuTwiQrU6LBgB&sig=AOD64_31cBE9Yry2KbqRxkCAKR2K76CaqA&client=ca-pub-1877409655011573&rf=1&nb=9&adurl=https://www.flyreva.com/patients-family/%3Futm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3DREVA%2520-%2520Display%26utm_term%3D%26gad_campaignid%3D782639199%26gclid%3DEAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE
+                          - img [ref=f30e7]
+                        - generic [ref=f30e9]:
+                          - generic [ref=f30e10]:
+                            - link "REVA Air Ambulance Exceptionally Serves Patients Needing Medical Flight Transport." [ref=f30e12] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=Cl7XfXc3dabimKuqeoPMPgpOtwQ2k5LShhgH5qoPcuw_rwpPKiw4QASCl97xnYL0BoAHR98DTA8gBCagDAcgDywSqBIICT9AWACF38l9dRbY-24x_z7Kb8K2SglzuKwsY0B7kF6XcSmhQfj7XWfFbVlQUNt543p8Dz-nd0PLs-77dXQPOnjGdig4u72aKN1Q3rYcaNeYxCZRxxVZwO1Qzz1i75GZtvMrDTjjv3iYohofGkntPDctiqZSnPxctxWBLgLT8I_YAiJbPLAY444zNRsSTS1dkLesHj6DbTKrb2rJw1SQh-P9oF_Y9zRneVaHWP-DAP0LsmZMG7uNCs68myDVPWpA9sflJScfgNY9akg56VlZPdeGY82QXvrKk4oQQZTx3ZEMR_AoL9lQ6k5zcIhXrR9_kQ-UEtiZGRtBRXIp32KEpAdS4wASNhqzClgGIBd_AmPUCoAYugAeXiL8sqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY0Y6L98rskwOxCQT5HSlq7pREgAoBmAsByAsBgAwBogwDkAEBqg0CQ1LIDQHqDRMIuc-L98rskwMVag9oCB2CSSvY8A0CiA4JohNUCjcIA0ABUggKBhIECAEQAWiym5n5RXIhEh8gAigBOAJA38CY9QJYAWj-__________8BgAEBmAEDGhkKF2NhLXB1Yi0xODc3NDA5NjU1MDExNTczuBPkA9gTDYgUBNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjk4MDMyNjk1MjhQBqoYFwkAAAAAIJTzQBIKOTgwMzI2OTUyOBgBshgJEgKgTxguIgEA6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE&num=1&cid=CAQS0QEABaugfc04p9By4YvQ_GzAMl23Th1jqfkZ4fDgv1mEW2tFHwhLxUd6ae6ATehEJvv11ZYJRfAH29IadXdQDfwA85Z88xTrqVsDHEFr-9e6gtANE14IPkuon3c9hEG9BnM55Ka3e1c6JN88RG5OKcrV8T9gQ45iYRsGLNwudkG_yX7SrpG_ZBcOUqXtziCLfIuEmSUojbnCwIkM9eurpmd-LBKx7fqgHgE65DPWzdu5wC58rRcHvt95rho0ctKAHfiaYY5KlqS2pOkhuTwiQrU6LBgB&sig=AOD64_31cBE9Yry2KbqRxkCAKR2K76CaqA&client=ca-pub-1877409655011573&rf=1&nb=0&adurl=https://www.flyreva.com/patients-family/%3Futm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3DREVA%2520-%2520Display%26utm_term%3D%26gad_campaignid%3D782639199%26gclid%3DEAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE
+                              - text: REVA Air Ambulance Exceptionally Serves
+                              - text: Patients Needing Medical Flight Transport.
+                            - link "• Case Managers" [ref=f30e14] [cursor=pointer]:
+                              - /url: https://www.google.com/aclk?sa=l&ai=CdXM-Xc3dabimKuqeoPMPgpOtwQ2k5LShhgH5qoPcuw_rwpPKiw4QASCl97xnYL0BoAHR98DTA8gBCagDAcgDywSqBIICT9AWACF38l9dRbY-24x_z7Kb8K2SglzuKwsY0B7kF6XcSmhQfj7XWfFbVlQUNt543p8Dz-nd0PLs-77dXQPOnjGdig4u72aKN1Q3rYcaNeYxCZRxxVZwO1Qzz1i75GZtvMrDTjjv3iYohofGkntPDctiqZSnPxctxWBLgLT8I_YAiJbPLAY444zNRsSTS1dkLesHj6DbTKrb2rJw1SQh-P9oF_Y9zRneVaHWP-DAP0LsmZMG7uNCs68myDVPWpA9sflJScfgNY9akg56VlZPdeGY82QXvrKk4oQQZTx3ZEMR_AoL9lQ6k5zcIhXrR9_kQ-UEtiZGRtBRXIp32KEpAdS4wASNhqzClgGIBd_AmPUCoAYugAeXiL8sqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAfn17EC2AcAwAgB0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY0Y6L98rskwOACgGYCwHICwHaCwoIHxDs1Of4VhgCgAwBogwDkAEBqg0CQ1LIDQHqDRMIuc-L98rskwMVag9oCB2CSSvY8A0CiA4JohNUCjcIA0ABUggKBhIECAEQAWiym5n5RXIhEh8gAigBOAJA38CY9QJYAWj-__________8BgAEBmAEDGhkKF2NhLXB1Yi0xODc3NDA5NjU1MDExNTczuBPkA9gTDYgUBNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjk4MDMyNjk1MjhQBqoYFwkAAAAAIJTzQBIKOTgwMzI2OTUyOBgBshgJEgKgTxguIgEA6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASABEgLbAfD_BwE&num=1&cid=CAQS0QEABaugfc04p9By4YvQ_GzAMl23Th1jqfkZ4fDgv1mEW2tFHwhLxUd6ae6ATehEJvv11ZYJRfAH29IadXdQDfwA85Z88xTrqVsDHEFr-9e6gtANE14IPkuon3c9hEG9BnM55Ka3e1c6JN88RG5OKcrV8T9gQ45iYRsGLNwudkG_yX7SrpG_ZBcOUqXtziCLfIuEmSUojbnCwIkM9eurpmd-LBKx7fqgHgE65DPWzdu5wC58rRcHvt95rho0ctKAHfiaYY5KlqS2pOkhuTwiQrU6LBgB&sig=AOD64_1KV7WjPBU7niGeSZ5zPUZtqS4_yg&nb=6&adurl=https://www.flyreva.com/case-managers/%3Fgad_campaignid%3D782639199%26gclid%3DEAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASABEgLbAfD_BwE
+                              - generic [ref=f30e15]: •
+                              - generic [ref=f30e17]: Case Managers
+                            - link "REVA" [ref=f30e19] [cursor=pointer]:
+                              - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=Cl7XfXc3dabimKuqeoPMPgpOtwQ2k5LShhgH5qoPcuw_rwpPKiw4QASCl97xnYL0BoAHR98DTA8gBCagDAcgDywSqBIICT9AWACF38l9dRbY-24x_z7Kb8K2SglzuKwsY0B7kF6XcSmhQfj7XWfFbVlQUNt543p8Dz-nd0PLs-77dXQPOnjGdig4u72aKN1Q3rYcaNeYxCZRxxVZwO1Qzz1i75GZtvMrDTjjv3iYohofGkntPDctiqZSnPxctxWBLgLT8I_YAiJbPLAY444zNRsSTS1dkLesHj6DbTKrb2rJw1SQh-P9oF_Y9zRneVaHWP-DAP0LsmZMG7uNCs68myDVPWpA9sflJScfgNY9akg56VlZPdeGY82QXvrKk4oQQZTx3ZEMR_AoL9lQ6k5zcIhXrR9_kQ-UEtiZGRtBRXIp32KEpAdS4wASNhqzClgGIBd_AmPUCoAYugAeXiL8sqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY0Y6L98rskwOxCQT5HSlq7pREgAoBmAsByAsBgAwBogwDkAEBqg0CQ1LIDQHqDRMIuc-L98rskwMVag9oCB2CSSvY8A0CiA4JohNUCjcIA0ABUggKBhIECAEQAWiym5n5RXIhEh8gAigBOAJA38CY9QJYAWj-__________8BgAEBmAEDGhkKF2NhLXB1Yi0xODc3NDA5NjU1MDExNTczuBPkA9gTDYgUBNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjk4MDMyNjk1MjhQBqoYFwkAAAAAIJTzQBIKOTgwMzI2OTUyOBgBshgJEgKgTxguIgEA6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE&num=1&cid=CAQS0QEABaugfc04p9By4YvQ_GzAMl23Th1jqfkZ4fDgv1mEW2tFHwhLxUd6ae6ATehEJvv11ZYJRfAH29IadXdQDfwA85Z88xTrqVsDHEFr-9e6gtANE14IPkuon3c9hEG9BnM55Ka3e1c6JN88RG5OKcrV8T9gQ45iYRsGLNwudkG_yX7SrpG_ZBcOUqXtziCLfIuEmSUojbnCwIkM9eurpmd-LBKx7fqgHgE65DPWzdu5wC58rRcHvt95rho0ctKAHfiaYY5KlqS2pOkhuTwiQrU6LBgB&sig=AOD64_31cBE9Yry2KbqRxkCAKR2K76CaqA&client=ca-pub-1877409655011573&rf=1&nb=1&adurl=https://www.flyreva.com/patients-family/%3Futm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3DREVA%2520-%2520Display%26utm_term%3D%26gad_campaignid%3D782639199%26gclid%3DEAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE
+                          - link [ref=f30e21] [cursor=pointer]:
+                            - /url: https://adclick.g.doubleclick.net/aclk?sa=l&ai=Cl7XfXc3dabimKuqeoPMPgpOtwQ2k5LShhgH5qoPcuw_rwpPKiw4QASCl97xnYL0BoAHR98DTA8gBCagDAcgDywSqBIICT9AWACF38l9dRbY-24x_z7Kb8K2SglzuKwsY0B7kF6XcSmhQfj7XWfFbVlQUNt543p8Dz-nd0PLs-77dXQPOnjGdig4u72aKN1Q3rYcaNeYxCZRxxVZwO1Qzz1i75GZtvMrDTjjv3iYohofGkntPDctiqZSnPxctxWBLgLT8I_YAiJbPLAY444zNRsSTS1dkLesHj6DbTKrb2rJw1SQh-P9oF_Y9zRneVaHWP-DAP0LsmZMG7uNCs68myDVPWpA9sflJScfgNY9akg56VlZPdeGY82QXvrKk4oQQZTx3ZEMR_AoL9lQ6k5zcIhXrR9_kQ-UEtiZGRtBRXIp32KEpAdS4wASNhqzClgGIBd_AmPUCoAYugAeXiL8sqAenzLECqAfi2LECqAemvhuoB8zOsQKoB_PRG6gHltgbqAeqm7ECqAeOzhuoB5PYG6gH8OAbqAfulrECqAf-nrECqAevvrECqAea4bECqAfVyRuoB9m2sQKoB5oGqAf_nrECqAffn7ECqAf4wrECqAf7wrEC2AcA0ggvCIBhEAEYnwMyCIqCgICAgIAIOg2AQIDAgICAgKiAAqgDSL39wTpY0Y6L98rskwOxCQT5HSlq7pREgAoBmAsByAsBgAwBogwDkAEBqg0CQ1LIDQHqDRMIuc-L98rskwMVag9oCB2CSSvY8A0CiA4JohNUCjcIA0ABUggKBhIECAEQAWiym5n5RXIhEh8gAigBOAJA38CY9QJYAWj-__________8BgAEBmAEDGhkKF2NhLXB1Yi0xODc3NDA5NjU1MDExNTczuBPkA9gTDYgUBNAVAZgWAcoWAgoA-BYBgBcBshcQGAEqCjk4MDMyNjk1MjhQBqoYFwkAAAAAIJTzQBIKOTgwMzI2OTUyOBgBshgJEgKgTxguIgEA6BgBwhkCCAE&ae=1&gclid=EAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE&num=1&cid=CAQS0QEABaugfc04p9By4YvQ_GzAMl23Th1jqfkZ4fDgv1mEW2tFHwhLxUd6ae6ATehEJvv11ZYJRfAH29IadXdQDfwA85Z88xTrqVsDHEFr-9e6gtANE14IPkuon3c9hEG9BnM55Ka3e1c6JN88RG5OKcrV8T9gQ45iYRsGLNwudkG_yX7SrpG_ZBcOUqXtziCLfIuEmSUojbnCwIkM9eurpmd-LBKx7fqgHgE65DPWzdu5wC58rRcHvt95rho0ctKAHfiaYY5KlqS2pOkhuTwiQrU6LBgB&sig=AOD64_31cBE9Yry2KbqRxkCAKR2K76CaqA&client=ca-pub-1877409655011573&rf=1&nb=8&adurl=https://www.flyreva.com/patients-family/%3Futm_source%3Dgoogle%26utm_medium%3Dppc%26utm_campaign%3DREVA%2520-%2520Display%26utm_term%3D%26gad_campaignid%3D782639199%26gclid%3DEAIaIQobChMI-MiL98rskwMVag9oCB2CSSvYEAEYASAAEgI7UPD_BwE
+                            - img [ref=f30e22]
+                      - img [ref=f30e28] [cursor=pointer]
+                      - button [ref=f30e30] [cursor=pointer]:
+                        - img [ref=f30e31]
+                      - iframe
+            - generic [ref=e401]:
+              - text: Publicidad
+              - iframe [ref=e402]:
+                - insertion [ref=f16e3]:
+                  - iframe [ref=f16e5]:
+                    
+    - contentinfo [ref=e403]:
+      - generic [ref=e404]:
+        - generic [ref=e405]:
+          - generic [ref=e407]:
+            - link "Página de Facebook" [ref=e408] [cursor=pointer]:
+              - /url: https://www.facebook.com/lanacioncr/
+              - img [ref=e409]
+              - generic [ref=e411]: Página de Facebook
+            - link "Fuente Twitter" [ref=e412] [cursor=pointer]:
+              - /url: https://twitter.com/nacion
+              - img [ref=e413]
+              - generic [ref=e415]: Fuente Twitter
+            - link "Fuente RSS" [ref=e416] [cursor=pointer]:
+              - /url: https://www.nacion.com/arc/outboundfeeds/rss/?outputType=xml
+              - img [ref=e417]
+              - generic [ref=e419]: Fuente RSS
+          - paragraph [ref=e420]: © 2026 Todos los derechos reservados, cualquier uso requiere autorización expresa y por escrito de Grupo Nación GN S.A.
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - heading "Sobre nosotros" [level=2] [ref=e423]
+            - list [ref=e424]:
+              - listitem [ref=e425]:
+                - link "Grupo Nación Opens in new window" [ref=e426] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gruponacion/
+                  - text: Grupo Nación
+                  - generic [ref=e427]: Opens in new window
+              - listitem [ref=e428]:
+                - link "La Teja Opens in new window" [ref=e429] [cursor=pointer]:
+                  - /url: https://www.lateja.cr/
+                  - text: La Teja
+                  - generic [ref=e430]: Opens in new window
+              - listitem [ref=e431]:
+                - link "El Financiero Opens in new window" [ref=e432] [cursor=pointer]:
+                  - /url: https://www.elfinancierocr.com/
+                  - text: El Financiero
+                  - generic [ref=e433]: Opens in new window
+              - listitem [ref=e434]:
+                - link "Revista Perfil Opens in new window" [ref=e435] [cursor=pointer]:
+                  - /url: https://www.nacion.com/revista-perfil/
+                  - text: Revista Perfil
+                  - generic [ref=e436]: Opens in new window
+              - listitem [ref=e437]:
+                - link "Sabores Opens in new window" [ref=e438] [cursor=pointer]:
+                  - /url: https://www.nacion.com/sabores/
+                  - text: Sabores
+                  - generic [ref=e439]: Opens in new window
+              - listitem [ref=e440]:
+                - link "Aplicaciones Opens in new window" [ref=e441] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/apps/landing/index.html
+                  - text: Aplicaciones
+                  - generic [ref=e442]: Opens in new window
+              - listitem [ref=e443]:
+                - link "Boletines Opens in new window" [ref=e444] [cursor=pointer]:
+                  - /url: https://www.nacion.com/boletines/
+                  - text: Boletines
+                  - generic [ref=e445]: Opens in new window
+              - listitem [ref=e446]:
+                - link "Versión Impresa Opens in new window" [ref=e447] [cursor=pointer]:
+                  - /url: https://lanacioncostarica.pressreader.com/
+                  - text: Versión Impresa
+                  - generic [ref=e448]: Opens in new window
+          - generic [ref=e449]:
+            - heading "Negocios" [level=2] [ref=e450]
+            - list [ref=e451]:
+              - listitem [ref=e452]:
+                - link "Todo Busco Opens in new window" [ref=e453] [cursor=pointer]:
+                  - /url: https://www.nacion.com/todobusco/
+                  - text: Todo Busco
+                  - generic [ref=e454]: Opens in new window
+              - listitem [ref=e455]:
+                - link "Parque Viva Opens in new window" [ref=e456] [cursor=pointer]:
+                  - /url: https://www.parqueviva.com/
+                  - text: Parque Viva
+                  - generic [ref=e457]: Opens in new window
+              - listitem [ref=e458]:
+                - link "Paute con nosotros Opens in new window" [ref=e459] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/comercial/VARIOS/TARIFARIO_LNCOMERCIAL_2025.pdf
+                  - text: Paute con nosotros
+                  - generic [ref=e460]: Opens in new window
+              - listitem [ref=e461]:
+                - link "Printea Opens in new window" [ref=e462] [cursor=pointer]:
+                  - /url: https://printea.com/es/
+                  - text: Printea
+                  - generic [ref=e463]: Opens in new window
+          - generic [ref=e464]:
+            - heading "Términos y condiciones" [level=2] [ref=e465]
+            - list [ref=e466]:
+              - listitem [ref=e467]:
+                - link "Políticas de privacidad Opens in new window" [ref=e468] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/privacidad.html
+                  - text: Políticas de privacidad
+                  - generic [ref=e469]: Opens in new window
+              - listitem [ref=e470]:
+                - link "Condiciones de uso Opens in new window" [ref=e471] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/condiciones.html
+                  - text: Condiciones de uso
+                  - generic [ref=e472]: Opens in new window
+              - listitem [ref=e473]:
+                - link "Estados financieros Opens in new window" [ref=e474] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/estados-financieros.html
+                  - text: Estados financieros
+                  - generic [ref=e475]: Opens in new window
+              - listitem [ref=e476]:
+                - link "Reglamentos Opens in new window" [ref=e477] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/comercial/reglamentos/index.html
+                  - text: Reglamentos
+                  - generic [ref=e478]: Opens in new window
+          - generic [ref=e479]:
+            - heading "Servicio al cliente" [level=2] [ref=e480]
+            - list [ref=e481]:
+              - listitem [ref=e482]:
+                - link "Contáctenos Opens in new window" [ref=e483] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/contacto.html
+                  - text: Contáctenos
+                  - generic [ref=e484]: Opens in new window
+              - listitem [ref=e485]:
+                - link "Centro de ayuda Opens in new window" [ref=e486] [cursor=pointer]:
+                  - /url: https://www.nacion.com/gnfactory/especiales/gruponacion/centro_de_ayuda.html
+                  - text: Centro de ayuda
+                  - generic [ref=e487]: Opens in new window
+              - listitem [ref=e488]:
+                - link "Planes de suscripción Opens in new window" [ref=e489] [cursor=pointer]:
+                  - /url: https://www.nacion.com/suscripcion-digital/?utm_source=home&utm_medium=button&utm_campaign=suscribase_footer_ln
+                  - text: Planes de suscripción
+                  - generic [ref=e490]: Opens in new window
+        - figure [ref=e491]:
+          - img "La Nacion logo" [ref=e492]
+  - generic [ref=e494]:
+    - generic [ref=e495]:
+      - generic:
+        - img
+      - generic [ref=e496]: Este aviso se cerrará en 13 segundos.
+      - generic [ref=e497] [cursor=pointer]: "[X Cerrar]"
+    - img [ref=e499] [cursor=pointer]
+  - generic [ref=e500]:
+    - generic [ref=e504]:
+      - img "Icono" [ref=e506]
+      - generic [ref=e507]:
+        - heading "$1,99/mes por 3 meses." [level=2] [ref=e508]
+        - generic [ref=e509]: Equivale a $0,46 por semana.
+        - generic [ref=e510]:
+          - paragraph [ref=e511]: Noticias claras, fuentes fiables y análisis responsable.
+          - link "Suscríbase ahora" [ref=e512] [cursor=pointer]:
+            - /url: https://www.nacion.com/suscripciones/1589/oferta/OT4H9T2OPKLR/OTV9U44RZ7VQ8/?utm_source=Recommender&utm_medium=display+&utm_campaign=26&utm_cmp_rs=IL_85ywSroHSTS_nJmzqNYj8A
+    - img [ref=e515] [cursor=pointer]
